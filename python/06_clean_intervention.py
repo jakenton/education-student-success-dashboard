@@ -102,5 +102,5 @@ intervention["intervention_duration_days"] = (
 # Saved Cleaned Intervention File
 # ----------------------------------------------------------------
 
-intervention.to_csv("../data/cleaned/fact_intervention_cleaned.csv". index=False)
+intervention.to_csv("../data/cleaned/fact_intervention_cleaned.csv", index=False)
 print("fact_intervention cleaned and saved.")

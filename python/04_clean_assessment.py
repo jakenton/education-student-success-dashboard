@@ -60,10 +60,10 @@ assessment.loc[assessment["proficiency_level"] == "below basic", "proficiency_le
 # ----------------------------------------------------------------
 
 # assessment_score should be numeric and between 0 and 100.
-assessment["proficiency_score"] = pd.to_numeric(assessment["assessment_score"], errors="coerce")
+assessment["assessment_score"] = pd.to_numeric(assessment["assessment_score"], errors="coerce")
 invalid_score = (
     (assessment["assessment_score"] < 0)
-    | (assessment["assessment_score"] > 100) = pd.NA
+    | (assessment["assessment_score"] > 100)
 )
 assessment.loc[invalid_score, "assessment_score"] = pd.NA
 
