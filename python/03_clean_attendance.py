@@ -96,3 +96,4 @@ attendance.loc[
 
 attendance.to_csv("../data/cleaned/fact_attendance_cleaned.csv", index=False)
 print("fact_attendance cleaned and saved.")
+# %%

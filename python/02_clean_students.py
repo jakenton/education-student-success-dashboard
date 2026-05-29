@@ -64,7 +64,7 @@ students["economically_disadvantaged_flag"] = students["economically_disadvantag
 
 # Convert common yes/no variations into consistent labels.
 students.loc[students["english_learner_status"].isin(["yes", "y"]), "english_learner_status"] = "Yes"
-students.loc[students[""].isin(["no", "n"]), "english_learner_status"] = "No"
+students.loc[students["english_learner_status"].isin(["no", "n"]), "english_learner_status"] = "No"
 students.loc[students["special_education_status"].isin(["yes", "y"]), "special_education_status"] = "Yes"
 students.loc[students["special_education_status"].isin(["no", "n"]), "special_education_status"] = "No"
 students.loc[students["economically_disadvantaged_flag"].isin(["yes", "y"]), "economically_disadvantaged_flag"] = "Yes"

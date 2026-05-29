@@ -56,8 +56,18 @@ intervention.loc[intervention["completed_flag"] == "nan", "completed_flag"] = pd
 # Convert Date Columns
 # ----------------------------------------------------------------
 
+# Clean date columns as text first.
+# This removes extra spaces without permantently treating the values as text.
+intervention["intervention_start_date"] = (
+    intervention["intervention_start_date"].astype(str).str.strip()
+)
+
+intervention["intervention_end_date"] = (
+    intervention["intervention_end_date"].astype(str).str.strip()
+)
+
 # Convert date text into datetime values so dates can be compared.
-intervention["intervention_type"] = pd.to_datetime(
+intervention["intervention_start_date"] = pd.to_datetime(
     intervention["intervention_start_date"],
     errors="coerce"
 )
@@ -91,12 +101,11 @@ intervention.loc[invalid_end_date, "intervention_end_date"] = pd.NaT
 # ----------------------------------------------------------------
 
 # Calculate how many days each intervention lasted.
-
-# Calculate how many days each intervention lasted.
 intervention["intervention_duration_days"] = (
     intervention["intervention_end_date"]
     - intervention["intervention_start_date"]
 ).dt.days
+
 # %%
 # ----------------------------------------------------------------
 # Saved Cleaned Intervention File
@@ -104,3 +113,4 @@ intervention["intervention_duration_days"] = (
 
 intervention.to_csv("../data/cleaned/fact_intervention_cleaned.csv", index=False)
 print("fact_intervention cleaned and saved.")
+# %%

@@ -1,0 +1,8 @@
+table_name,issue_type,affected_rows,action_taken
+dim_student,Duplicate student_id values,0,"Removed duplicate student records, if any"
+fact_attendance,Attendance rates stored as percentages,22,Converted percentage-formatted values to decimals
+fact_attendance,Missing or invalid attendance rates after cleaning,8,Left as missing when a valid value could not be confirmed
+fact_assessment,Missing or invalid assessment scores after cleaning,54,Set impossible scores outside 0 to 100 to missing
+fact_course_performance,Duplicate course records removed,72,"Kept one record per student, school year, and subject"
+fact_intervention,Missing completed_flag values after cleaning,5,Left as missing when completion status could not be confirmed
+fact_intervention,Missing or invalid intervention_end_date values after cleaning,2,Set invalid end dates to missing

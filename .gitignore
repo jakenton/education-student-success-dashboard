@@ -21,3 +21,6 @@ Thumbs.db
 
 # Data files that are too large
 *.zip
+
+# Virtual environment
+.venv/

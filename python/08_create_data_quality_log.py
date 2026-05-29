@@ -1,5 +1,5 @@
 """
-09_create_data_quality_log.py
+08_create_data_quality_log.py
 
 Purpose: Create a simple data-quality log from the raw and cleaned files.
 
@@ -15,6 +15,7 @@ Why this matters: It's crucial to document data-quality issues and cleaning deci
 
 import pandas as pd
 import os
+
 # %%
 # ----------------------------------------------------------------
 # Create Cleaned Data Folder
@@ -30,18 +31,19 @@ os.makedirs("../data/cleaned", exist_ok=True)
 raw_students = pd.read_csv("../data/raw/dim_student.csv")
 raw_attendance = pd.read_csv("../data/raw/fact_attendance.csv")
 raw_assessment = pd.read_csv("../data/raw/fact_assessment.csv")
-raw_course = pd.read_csv("../data/raw/fact_course.csv")
-raw_invervention = pd.read_csv("../data/raw/fact_invervention.csv")
+raw_course = pd.read_csv("../data/raw/fact_course_performance.csv")
+raw_intervention = pd.read_csv("../data/raw/fact_intervention.csv")
 
 # %%
 # ----------------------------------------------------------------
 # Load Cleaned Files
 # ----------------------------------------------------------------
 
-clean_attendance = pd.read_csv("../data/raw/fact_attendance_cleaned.csv")
-clean_assessment = pd.read_csv("../data/raw/fact_assessment_cleaned.csv")
-clean_course = pd.read_csv("../data/raw/fact_course_cleaned.csv")
-clean_invervention = pd.read_csv("../data/raw/fact_invervention_cleaned.csv")
+clean_students = pd.read_csv("../data/cleaned/dim_student_cleaned.csv")
+clean_attendance = pd.read_csv("../data/cleaned/fact_attendance_cleaned.csv")
+clean_assessment = pd.read_csv("../data/cleaned/fact_assessment_cleaned.csv")
+clean_course = pd.read_csv("../data/cleaned/fact_course_performance_cleaned.csv")
+clean_intervention = pd.read_csv("../data/cleaned/fact_intervention_cleaned.csv")
 
 # %%
 # ----------------------------------------------------------------
@@ -50,7 +52,7 @@ clean_invervention = pd.read_csv("../data/raw/fact_invervention_cleaned.csv")
 
 # Each list will become one column in the final data-quality log.
 table_names = []
-issues_types = []
+issue_types = []
 affected_rows = []
 actions_taken = []
 
@@ -61,7 +63,7 @@ actions_taken = []
 
 student_duplicates = raw_students["student_id"].duplicated().sum()
 table_names.append("dim_student")
-issues_types.append("Duplicate student_id values")
+issue_types.append("Duplicate student_id values")
 affected_rows.append(student_duplicates)
 actions_taken.append("Removed duplicate student records, if any")
 
@@ -74,14 +76,14 @@ actions_taken.append("Removed duplicate student records, if any")
 raw_attendance_rate_text = raw_attendance["attendance_rate"].astype(str)
 percent_formatted_count = raw_attendance_rate_text.str.contains("%", regex=False).sum()
 table_names.append("fact_attendance")
-issues_types.append("Attendance rates stored as percentages")
+issue_types.append("Attendance rates stored as percentages")
 affected_rows.append(percent_formatted_count)
 actions_taken.append("Converted percentage-formatted values to decimals")
 
 # Count missing attendance rates after cleaning.
 missing_clean_attendance = clean_attendance["attendance_rate"].isna().sum()
 table_names.append("fact_attendance")
-issues_types.append("Missing or invalid attendance rates after cleaning")
+issue_types.append("Missing or invalid attendance rates after cleaning")
 affected_rows.append(missing_clean_attendance)
 actions_taken.append("Left as missing when a valid value could not be confirmed")
 
@@ -92,7 +94,7 @@ actions_taken.append("Left as missing when a valid value could not be confirmed"
 
 missing_clean_scores = clean_assessment["assessment_score"].isna().sum()
 table_names.append("fact_assessment")
-issues_types.append("Missing or invalid assessment scores after cleaning")
+issue_types.append("Missing or invalid assessment scores after cleaning")
 affected_rows.append(missing_clean_scores)
 actions_taken.append("Set impossible scores outside 0 to 100 to missing")
 
@@ -104,24 +106,25 @@ actions_taken.append("Set impossible scores outside 0 to 100 to missing")
 # The difference between raw and cleaned rows shows how many duplicates were removed.
 removed_course_duplicates = len(raw_course) - len(clean_course)
 table_names.append("fact_course_performance")
-issues_types.append("Duplicate course records removed")
+issue_types.append("Duplicate course records removed")
 affected_rows.append(removed_course_duplicates)
-actions_taken.append("Kept one record per student, school, year, and subject")
+actions_taken.append("Kept one record per student, school year, and subject")
 
 # %%
 # ----------------------------------------------------------------
 # Log Intervention Tables Issues
 # ----------------------------------------------------------------
 
-missing_completed_flags = clean_invervention("completed_flag").isna().sum()
+missing_completed_flags = clean_intervention["completed_flag"].isna().sum()
+
 table_names.append("fact_intervention")
-issues_types.append("Missing completed_flag values after cleaning")
+issue_types.append("Missing completed_flag values after cleaning")
 affected_rows.append(missing_completed_flags)
 actions_taken.append("Left as missing when completion status could not be confirmed")
 
-missing_end_dates = clean_invervention["intervention_end_date"].isna().sum()
+missing_end_dates = clean_intervention["intervention_end_date"].isna().sum()
 table_names.append("fact_intervention")
-issues_types.append("Missing or invalid intervention_end_date values after cleaning")
+issue_types.append("Missing or invalid intervention_end_date values after cleaning")
 affected_rows.append(missing_end_dates)
 actions_taken.append("Set invalid end dates to missing")
 
@@ -132,7 +135,7 @@ actions_taken.append("Set invalid end dates to missing")
 
 data_quality_log = pd.DataFrame({
     "table_name": table_names,
-    "issue_type": issues_types,
+    "issue_type": issue_types,
     "affected_rows": affected_rows,
     "action_taken": actions_taken
 })
@@ -144,3 +147,4 @@ data_quality_log = pd.DataFrame({
 
 data_quality_log.to_csv("../data/cleaned/data_quality_log.csv", index=False)
 print("data_quality_log created and saved.")
+# %%

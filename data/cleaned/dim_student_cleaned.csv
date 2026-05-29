@@ -1,0 +1,1501 @@
+student_id,school_name,grade_level,gender,race_ethnicity,english_learner_status,special_education_status,economically_disadvantaged_flag
+STU00001,Riverbend School,11,Male,Hispanic/Latino,No,Yes,Yes
+STU00002,Central Academy,10,Male,White,Yes,No,Yes
+STU00003,West Mesa Secondary,12,Female,White,No,No,No
+STU00004,Riverbend School,12,Male,Black/African American,No,No,No
+STU00005,Eastview Middle School,10,Male,White,No,No,No
+STU00006,West Mesa Secondary,8,Male,Hispanic/Latino,No,Yes,Yes
+STU00007,Riverbend School,10,Male,Hispanic/Latino,No,No,No
+STU00008,Riverbend School,8,Male,Hispanic/Latino,No,No,Yes
+STU00009,Eastview Middle School,10,Female,Native American,No,No,No
+STU00010,Central Academy,11,Female,Hispanic/Latino,No,No,No
+STU00011,North Ridge High School,8,Male,Multiracial,No,Yes,Yes
+STU00012,West Mesa Secondary,9,Nonbinary,Hispanic/Latino,No,No,Yes
+STU00013,Riverbend School,6,Female,Hispanic/Latino,Yes,No,No
+STU00014,West Mesa Secondary,11,Female,Hispanic/Latino,No,No,No
+STU00015,Central Academy,9,Male,Hispanic/Latino,No,No,No
+STU00016,North Ridge High School,9,Female,Asian,Yes,No,No
+STU00017,Central Academy,9,Male,White,No,No,No
+STU00018,Eastview Middle School,7,Male,Hispanic/Latino,No,No,Yes
+STU00019,West Mesa Secondary,10,Male,Black/African American,No,No,No
+STU00020,Riverbend School,11,Male,White,No,No,Yes
+STU00021,Riverbend School,8,Male,Multiracial,No,No,Yes
+STU00022,North Ridge High School,6,Male,Multiracial,No,No,Yes
+STU00023,West Mesa Secondary,8,Male,Black/African American,No,No,No
+STU00024,West Mesa Secondary,7,Male,Asian,No,No,No
+STU00025,Riverbend School,8,Male,Asian,No,No,Yes
+STU00026,Eastview Middle School,10,Female,White,No,No,Yes
+STU00027,Central Academy,6,Male,Black/African American,No,No,Yes
+STU00028,Eastview Middle School,11,Female,Hispanic/Latino,No,No,No
+STU00029,Eastview Middle School,7,Male,Black/African American,Yes,No,No
+STU00030,Riverbend School,12,Male,Multiracial,No,No,Yes
+STU00031,Riverbend School,11,Female,Hispanic/Latino,No,No,Yes
+STU00032,West Mesa Secondary,7,Female,Asian,No,No,No
+STU00033,North Ridge High School,9,Female,Multiracial,No,No,Yes
+STU00034,North Ridge High School,6,Male,Hispanic/Latino,No,Yes,Yes
+STU00035,Central Academy,6,Female,White,No,No,Yes
+STU00036,Eastview Middle School,12,Female,Native American,Yes,No,Yes
+STU00037,Eastview Middle School,11,Male,Multiracial,No,No,Yes
+STU00038,Central Academy,7,Male,Hispanic/Latino,No,No,No
+STU00039,North Ridge High School,7,Female,Hispanic/Latino,No,No,Yes
+STU00040,Riverbend School,7,Female,Black/African American,No,No,Yes
+STU00041,Central Academy,8,Male,Hispanic/Latino,No,No,No
+STU00042,West Mesa Secondary,8,Male,Hispanic/Latino,No,No,No
+STU00043,Riverbend School,8,Male,Hispanic/Latino,No,No,Yes
+STU00044,North Ridge High School,9,Female,Hispanic/Latino,No,No,Yes
+STU00045,West Mesa Secondary,7,Female,White,No,No,No
+STU00046,West Mesa Secondary,12,Female,White,No,No,Yes
+STU00047,North Ridge High School,11,Male,White,No,No,No
+STU00048,North Ridge High School,11,Female,Black/African American,No,No,Yes
+STU00049,Riverbend School,7,Female,White,No,No,Yes
+STU00050,Eastview Middle School,10,Male,Hispanic/Latino,Yes,No,Yes
+STU00051,Eastview Middle School,11,Male,Hispanic/Latino,No,No,No
+STU00052,Eastview Middle School,7,Male,Hispanic/Latino,No,No,Yes
+STU00053,Riverbend School,11,Female,Hispanic/Latino,No,No,Yes
+STU00054,Riverbend School,8,Female,Hispanic/Latino,No,No,Yes
+STU00055,Riverbend School,11,Female,Hispanic/Latino,Yes,No,No
+STU00056,Riverbend School,9,Female,Hispanic/Latino,No,No,Yes
+STU00057,Central Academy,11,Male,Black/African American,No,No,No
+STU00058,Central Academy,7,Female,White,No,No,No
+STU00059,Eastview Middle School,8,Male,Multiracial,No,No,Yes
+STU00060,Eastview Middle School,7,Male,Asian,No,No,No
+STU00061,Riverbend School,7,Nonbinary,White,Yes,No,No
+STU00062,Central Academy,8,Female,Hispanic/Latino,No,No,Yes
+STU00063,Central Academy,8,Female,White,No,No,Yes
+STU00064,Riverbend School,6,Female,Hispanic/Latino,No,Yes,Yes
+STU00065,Riverbend School,10,Female,White,No,No,Yes
+STU00066,Central Academy,9,Female,,No,No,No
+STU00067,Central Academy,11,Female,White,Yes,No,No
+STU00068,North Ridge High School,10,Male,Hispanic/Latino,No,No,No
+STU00069,Eastview Middle School,7,Male,Black/African American,No,Yes,Yes
+STU00070,Central Academy,6,Male,Asian,No,No,Yes
+STU00071,North Ridge High School,8,Female,Black/African American,Yes,No,Yes
+STU00072,North Ridge High School,9,Female,White,No,No,No
+STU00073,West Mesa Secondary,7,Female,White,No,No,Yes
+STU00074,North Ridge High School,11,Female,Hispanic/Latino,Yes,Yes,No
+STU00075,Eastview Middle School,10,Female,Black/African American,Yes,No,No
+STU00076,North Ridge High School,11,Nonbinary,White,Yes,No,Yes
+STU00077,North Ridge High School,6,Female,Hispanic/Latino,No,Yes,No
+STU00078,Riverbend School,11,Female,Hispanic/Latino,No,No,No
+STU00079,Central Academy,7,Male,Multiracial,No,No,No
+STU00080,Riverbend School,9,Male,White,No,No,Yes
+STU00081,Riverbend School,9,Male,White,Yes,No,Yes
+STU00082,North Ridge High School,11,Female,White,No,No,No
+STU00083,West Mesa Secondary,7,Male,White,No,No,Yes
+STU00084,Eastview Middle School,7,Female,,Yes,No,No
+STU00085,Eastview Middle School,8,Female,Hispanic/Latino,No,No,Yes
+STU00086,Eastview Middle School,8,Male,White,Yes,No,No
+STU00087,Riverbend School,7,Male,Black/African American,No,Yes,No
+STU00088,Central Academy,7,Female,Hispanic/Latino,No,No,Yes
+STU00089,Eastview Middle School,7,Male,Asian,No,No,Yes
+STU00090,Central Academy,9,Female,Hispanic/Latino,No,No,No
+STU00091,Eastview Middle School,8,Female,Black/African American,No,No,Yes
+STU00092,Riverbend School,8,Female,White,Yes,No,No
+STU00093,Central Academy,11,Male,White,No,No,No
+STU00094,North Ridge High School,7,Female,White,No,No,Yes
+STU00095,North Ridge High School,12,Male,Multiracial,No,No,No
+STU00096,Riverbend School,11,Female,White,Yes,Yes,Yes
+STU00097,North Ridge High School,7,Male,Black/African American,No,No,No
+STU00098,Eastview Middle School,8,Male,Black/African American,No,No,Yes
+STU00099,Eastview Middle School,7,Female,Hispanic/Latino,Yes,No,Yes
+STU00100,West Mesa Secondary,7,Female,Hispanic/Latino,No,No,Yes
+STU00101,West Mesa Secondary,8,Female,White,No,No,No
+STU00102,Riverbend School,6,Male,Hispanic/Latino,No,No,No
+STU00103,North Ridge High School,6,Female,Hispanic/Latino,No,No,No
+STU00104,West Mesa Secondary,9,Male,White,No,No,Yes
+STU00105,Riverbend School,10,Female,White,No,No,No
+STU00106,Riverbend School,8,Male,Hispanic/Latino,No,No,No
+STU00107,Central Academy,12,Female,Asian,No,No,No
+STU00108,North Ridge High School,8,Male,White,No,No,Yes
+STU00109,Eastview Middle School,12,Nonbinary,Black/African American,No,No,No
+STU00110,West Mesa Secondary,7,Female,Hispanic/Latino,No,Yes,Yes
+STU00111,Central Academy,9,Male,White,No,No,Yes
+STU00112,North Ridge High School,11,Female,Hispanic/Latino,Yes,No,No
+STU00113,North Ridge High School,6,Female,,Yes,Yes,Yes
+STU00114,Central Academy,12,Male,,No,No,Yes
+STU00115,Eastview Middle School,8,Male,Multiracial,No,No,No
+STU00116,West Mesa Secondary,9,Male,Hispanic/Latino,No,No,No
+STU00117,Riverbend School,10,Female,White,No,No,Yes
+STU00118,Riverbend School,10,Female,Hispanic/Latino,No,Yes,No
+STU00119,Central Academy,6,Female,White,No,No,Yes
+STU00120,Riverbend School,12,Male,White,No,No,Yes
+STU00121,Central Academy,10,Female,Hispanic/Latino,Yes,No,Yes
+STU00122,Riverbend School,12,Female,Hispanic/Latino,No,No,No
+STU00123,Eastview Middle School,9,Female,Hispanic/Latino,Yes,No,Yes
+STU00124,North Ridge High School,10,Female,Hispanic/Latino,No,No,Yes
+STU00125,Eastview Middle School,9,Female,Multiracial,No,No,No
+STU00126,Central Academy,12,Female,White,No,No,No
+STU00127,North Ridge High School,11,Male,Hispanic/Latino,No,Yes,No
+STU00128,Eastview Middle School,12,Male,Multiracial,No,No,No
+STU00129,Eastview Middle School,9,Female,Hispanic/Latino,No,No,Yes
+STU00130,Central Academy,11,Male,White,No,Yes,Yes
+STU00131,Eastview Middle School,8,Male,Black/African American,No,Yes,Yes
+STU00132,West Mesa Secondary,9,Female,Native American,No,No,No
+STU00133,Central Academy,11,Female,Black/African American,No,No,Yes
+STU00134,North Ridge High School,6,Female,White,No,No,Yes
+STU00135,Central Academy,10,Female,Multiracial,No,No,Yes
+STU00136,Eastview Middle School,6,Male,Hispanic/Latino,No,No,Yes
+STU00137,West Mesa Secondary,10,Nonbinary,Multiracial,,No,No
+STU00138,Central Academy,9,Female,Asian,No,No,No
+STU00139,Riverbend School,9,Male,Native American,No,No,Yes
+STU00140,Eastview Middle School,9,Female,Hispanic/Latino,No,No,No
+STU00141,Central Academy,9,Male,Hispanic/Latino,No,No,No
+STU00142,Central Academy,8,Male,Black/African American,No,No,Yes
+STU00143,West Mesa Secondary,9,Female,White,No,Yes,Yes
+STU00144,Central Academy,9,Female,White,No,No,No
+STU00145,Central Academy,11,Male,Native American,No,No,Yes
+STU00146,North Ridge High School,9,Nonbinary,White,No,Yes,No
+STU00147,North Ridge High School,10,Female,Hispanic/Latino,No,No,No
+STU00148,Central Academy,11,Female,White,No,Yes,No
+STU00149,Central Academy,12,Female,Hispanic/Latino,No,No,No
+STU00150,Eastview Middle School,6,Male,Hispanic/Latino,Yes,No,No
+STU00151,West Mesa Secondary,10,Male,Hispanic/Latino,No,No,Yes
+STU00152,West Mesa Secondary,7,Male,Asian,No,No,Yes
+STU00153,Eastview Middle School,7,Male,Black/African American,No,No,No
+STU00154,Central Academy,11,Male,White,Yes,No,No
+STU00155,Eastview Middle School,6,Male,Hispanic/Latino,No,No,No
+STU00156,Riverbend School,11,Female,Black/African American,No,No,No
+STU00157,North Ridge High School,11,Male,Asian,No,No,Yes
+STU00158,Riverbend School,12,Female,Native American,Yes,No,No
+STU00159,Riverbend School,10,Female,White,No,No,No
+STU00160,Riverbend School,12,Male,Asian,No,No,No
+STU00161,Eastview Middle School,6,Male,White,No,No,No
+STU00162,West Mesa Secondary,12,Male,White,No,No,Yes
+STU00163,North Ridge High School,7,Female,Native American,No,No,No
+STU00164,Eastview Middle School,8,Male,White,No,No,Yes
+STU00165,Central Academy,6,Female,White,No,No,Yes
+STU00166,North Ridge High School,8,Female,Hispanic/Latino,No,No,No
+STU00167,West Mesa Secondary,11,Female,White,Yes,No,No
+STU00168,West Mesa Secondary,7,Male,White,No,No,No
+STU00169,North Ridge High School,11,Female,Black/African American,Yes,No,Yes
+STU00170,West Mesa Secondary,10,Male,White,No,No,Yes
+STU00171,North Ridge High School,10,Female,Hispanic/Latino,No,No,Yes
+STU00172,Central Academy,12,Female,Native American,No,No,No
+STU00173,North Ridge High School,9,Male,Hispanic/Latino,No,No,No
+STU00174,West Mesa Secondary,8,Female,Native American,Yes,No,No
+STU00175,Eastview Middle School,12,Male,Hispanic/Latino,No,No,Yes
+STU00176,Eastview Middle School,9,Male,White,No,No,No
+STU00177,Central Academy,10,Female,White,No,No,No
+STU00178,West Mesa Secondary,8,Male,Asian,No,No,Yes
+STU00179,West Mesa Secondary,7,Male,Hispanic/Latino,No,No,No
+STU00180,Riverbend School,7,Male,Native American,No,No,No
+STU00181,West Mesa Secondary,7,Male,White,No,No,Yes
+STU00182,West Mesa Secondary,7,Male,White,No,No,Yes
+STU00183,Central Academy,11,Male,White,No,No,No
+STU00184,North Ridge High School,6,Female,Hispanic/Latino,No,No,No
+STU00185,Riverbend School,10,Male,White,No,No,No
+STU00186,Riverbend School,12,Male,Hispanic/Latino,Yes,No,No
+STU00187,North Ridge High School,11,Male,Hispanic/Latino,No,No,Yes
+STU00188,Eastview Middle School,8,Male,White,No,No,No
+STU00189,Riverbend School,6,Female,White,No,Yes,No
+STU00190,North Ridge High School,11,Male,Hispanic/Latino,Yes,No,Yes
+STU00191,West Mesa Secondary,6,Nonbinary,Hispanic/Latino,Yes,No,No
+STU00192,North Ridge High School,10,Female,Hispanic/Latino,No,No,Yes
+STU00193,Eastview Middle School,10,Female,Hispanic/Latino,No,No,Yes
+STU00194,West Mesa Secondary,7,Male,White,No,No,Yes
+STU00195,Eastview Middle School,11,Female,Hispanic/Latino,No,No,No
+STU00196,Eastview Middle School,7,Male,Native American,No,No,Yes
+STU00197,Central Academy,7,Female,Hispanic/Latino,No,No,Yes
+STU00198,West Mesa Secondary,11,Female,Hispanic/Latino,No,No,No
+STU00199,Eastview Middle School,12,Male,Native American,No,No,Yes
+STU00200,North Ridge High School,7,Male,Hispanic/Latino,No,No,No
+STU00201,Riverbend School,12,Male,White,Yes,No,No
+STU00202,West Mesa Secondary,12,Male,Multiracial,No,No,Yes
+STU00203,Central Academy,11,Male,Multiracial,No,Yes,Yes
+STU00204,Eastview Middle School,6,Male,Black/African American,Yes,No,No
+STU00205,Eastview Middle School,8,Male,Hispanic/Latino,No,No,Yes
+STU00206,North Ridge High School,10,Male,White,No,No,Yes
+STU00207,Eastview Middle School,12,Male,Multiracial,Yes,No,No
+STU00208,Riverbend School,11,Female,Multiracial,No,No,No
+STU00209,Eastview Middle School,8,Female,Hispanic/Latino,No,No,No
+STU00210,Central Academy,7,Male,White,Yes,No,No
+STU00211,Riverbend School,12,Male,Hispanic/Latino,No,No,No
+STU00212,Central Academy,7,Male,Hispanic/Latino,Yes,No,No
+STU00213,Eastview Middle School,8,Female,Black/African American,Yes,No,No
+STU00214,West Mesa Secondary,12,Male,Hispanic/Latino,No,No,No
+STU00215,Riverbend School,9,Female,Hispanic/Latino,Yes,Yes,No
+STU00216,Riverbend School,7,Male,Hispanic/Latino,No,No,Yes
+STU00217,Eastview Middle School,6,Male,White,No,No,Yes
+STU00218,Eastview Middle School,9,Male,Hispanic/Latino,Yes,No,Yes
+STU00219,West Mesa Secondary,12,Male,White,No,No,No
+STU00220,North Ridge High School,9,Female,Hispanic/Latino,Yes,No,Yes
+STU00221,North Ridge High School,10,Female,Multiracial,No,No,Yes
+STU00222,Central Academy,7,Male,Hispanic/Latino,Yes,No,No
+STU00223,Riverbend School,11,Male,White,No,No,Yes
+STU00224,West Mesa Secondary,11,Male,Hispanic/Latino,No,No,Yes
+STU00225,North Ridge High School,10,Female,Hispanic/Latino,No,No,Yes
+STU00226,West Mesa Secondary,11,Female,Hispanic/Latino,Yes,Yes,Yes
+STU00227,Eastview Middle School,10,Female,Hispanic/Latino,Yes,No,No
+STU00228,Central Academy,8,Female,Hispanic/Latino,No,No,Yes
+STU00229,Riverbend School,11,Female,White,No,No,Yes
+STU00230,Eastview Middle School,11,Male,White,No,No,No
+STU00231,Eastview Middle School,11,Male,Hispanic/Latino,Yes,No,Yes
+STU00232,North Ridge High School,7,Female,White,Yes,No,Yes
+STU00233,West Mesa Secondary,10,Female,,No,No,No
+STU00234,Central Academy,6,Female,Hispanic/Latino,No,No,No
+STU00235,West Mesa Secondary,10,Male,Hispanic/Latino,No,No,No
+STU00236,West Mesa Secondary,9,Female,Hispanic/Latino,No,No,No
+STU00237,Central Academy,8,Male,Hispanic/Latino,No,No,No
+STU00238,Riverbend School,12,Male,White,Yes,Yes,Yes
+STU00239,Eastview Middle School,12,Female,Multiracial,No,Yes,No
+STU00240,Eastview Middle School,6,Male,Multiracial,No,Yes,No
+STU00241,West Mesa Secondary,7,Male,Multiracial,No,Yes,Yes
+STU00242,Riverbend School,7,Female,White,No,No,No
+STU00243,North Ridge High School,12,Female,Hispanic/Latino,No,No,Yes
+STU00244,Central Academy,9,Male,Hispanic/Latino,No,No,No
+STU00245,Riverbend School,11,Male,Hispanic/Latino,No,No,No
+STU00246,West Mesa Secondary,11,Male,Hispanic/Latino,No,No,No
+STU00247,Riverbend School,11,Male,Hispanic/Latino,No,No,Yes
+STU00248,North Ridge High School,6,Female,White,No,No,No
+STU00249,North Ridge High School,6,Male,Hispanic/Latino,Yes,No,No
+STU00250,Central Academy,8,Male,Hispanic/Latino,No,No,Yes
+STU00251,Riverbend School,8,Female,Black/African American,Yes,No,Yes
+STU00252,West Mesa Secondary,11,Male,Hispanic/Latino,No,No,No
+STU00253,Central Academy,7,Male,Asian,Yes,No,Yes
+STU00254,North Ridge High School,8,Male,Hispanic/Latino,No,No,No
+STU00255,North Ridge High School,7,Female,White,No,No,No
+STU00256,Riverbend School,7,Female,Hispanic/Latino,No,No,Yes
+STU00257,West Mesa Secondary,7,Male,White,Yes,No,No
+STU00258,Eastview Middle School,7,Male,Hispanic/Latino,No,Yes,Yes
+STU00259,Eastview Middle School,9,Male,Hispanic/Latino,No,Yes,No
+STU00260,Central Academy,8,Male,White,No,No,No
+STU00261,Eastview Middle School,9,Female,Hispanic/Latino,Yes,Yes,Yes
+STU00262,West Mesa Secondary,9,Female,Hispanic/Latino,No,No,No
+STU00263,North Ridge High School,11,Female,Native American,No,Yes,Yes
+STU00264,Eastview Middle School,12,Female,Hispanic/Latino,No,No,No
+STU00265,West Mesa Secondary,9,Female,White,Yes,No,Yes
+STU00266,Eastview Middle School,10,Male,White,No,No,No
+STU00267,North Ridge High School,11,Female,Hispanic/Latino,Yes,No,No
+STU00268,Eastview Middle School,10,Female,White,No,Yes,Yes
+STU00269,Eastview Middle School,6,Male,Hispanic/Latino,Yes,Yes,No
+STU00270,Eastview Middle School,12,Female,Black/African American,No,No,Yes
+STU00271,Eastview Middle School,7,Female,Hispanic/Latino,No,No,No
+STU00272,Eastview Middle School,8,Male,Hispanic/Latino,No,No,Yes
+STU00273,Eastview Middle School,10,Female,Hispanic/Latino,No,No,No
+STU00274,Central Academy,8,Male,Native American,No,No,Yes
+STU00275,Riverbend School,7,Male,Asian,No,Yes,Yes
+STU00276,North Ridge High School,12,Female,Multiracial,No,No,No
+STU00277,North Ridge High School,6,Male,White,No,No,No
+STU00278,Central Academy,7,Male,Black/African American,No,No,No
+STU00279,West Mesa Secondary,12,Male,White,No,No,No
+STU00280,West Mesa Secondary,11,Male,Native American,No,No,Yes
+STU00281,Eastview Middle School,6,Male,,No,Yes,No
+STU00282,Eastview Middle School,11,Male,Hispanic/Latino,No,No,Yes
+STU00283,North Ridge High School,12,Male,White,No,No,Yes
+STU00284,North Ridge High School,6,Female,White,No,Yes,No
+STU00285,Central Academy,8,Male,Hispanic/Latino,No,No,No
+STU00286,North Ridge High School,9,Male,White,No,No,Yes
+STU00287,Eastview Middle School,6,Male,Hispanic/Latino,No,Yes,Yes
+STU00288,North Ridge High School,7,Female,Asian,No,No,No
+STU00289,Central Academy,7,Female,Hispanic/Latino,No,No,Yes
+STU00290,Eastview Middle School,7,Male,Asian,No,No,Yes
+STU00291,West Mesa Secondary,8,Male,White,No,No,Yes
+STU00292,Eastview Middle School,9,Female,Black/African American,No,No,Yes
+STU00293,West Mesa Secondary,7,Female,Hispanic/Latino,No,Yes,Yes
+STU00294,Eastview Middle School,8,Female,Native American,No,No,No
+STU00295,West Mesa Secondary,7,Male,White,No,No,Yes
+STU00296,West Mesa Secondary,11,Female,Hispanic/Latino,No,No,Yes
+STU00297,West Mesa Secondary,7,Male,Hispanic/Latino,No,No,No
+STU00298,West Mesa Secondary,12,Female,,No,No,No
+STU00299,Riverbend School,9,Female,Hispanic/Latino,No,No,No
+STU00300,Riverbend School,11,Female,Black/African American,No,No,No
+STU00301,Riverbend School,10,Male,Multiracial,No,No,No
+STU00302,Eastview Middle School,7,Male,Black/African American,Yes,No,No
+STU00303,Central Academy,10,Male,White,No,No,No
+STU00304,Central Academy,7,Male,White,Yes,No,No
+STU00305,West Mesa Secondary,6,Female,Asian,No,Yes,No
+STU00306,Central Academy,7,Male,Asian,No,No,Yes
+STU00307,North Ridge High School,7,Female,Hispanic/Latino,No,No,No
+STU00308,Riverbend School,6,Female,Multiracial,No,No,No
+STU00309,North Ridge High School,6,Female,White,No,No,Yes
+STU00310,Eastview Middle School,12,Female,Asian,Yes,No,No
+STU00311,Central Academy,9,Male,Multiracial,No,No,Yes
+STU00312,North Ridge High School,8,Male,Black/African American,No,Yes,Yes
+STU00313,North Ridge High School,12,Male,Hispanic/Latino,Yes,No,No
+STU00314,North Ridge High School,7,Male,White,Yes,Yes,Yes
+STU00315,North Ridge High School,8,Male,Hispanic/Latino,No,No,Yes
+STU00316,North Ridge High School,11,Female,Asian,No,No,Yes
+STU00317,North Ridge High School,10,Female,Hispanic/Latino,No,No,No
+STU00318,Riverbend School,8,Female,Black/African American,Yes,No,Yes
+STU00319,North Ridge High School,7,Male,Native American,No,No,No
+STU00320,West Mesa Secondary,6,Nonbinary,Hispanic/Latino,No,No,No
+STU00321,West Mesa Secondary,6,Female,White,Yes,No,No
+STU00322,Central Academy,7,Male,White,Yes,No,No
+STU00323,North Ridge High School,11,Male,White,No,No,No
+STU00324,Central Academy,10,Male,Hispanic/Latino,No,No,Yes
+STU00325,West Mesa Secondary,9,Male,Hispanic/Latino,No,No,No
+STU00326,Riverbend School,11,Male,White,Yes,No,No
+STU00327,West Mesa Secondary,7,Male,White,No,No,Yes
+STU00328,Central Academy,7,Male,White,No,No,Yes
+STU00329,Riverbend School,8,Female,Hispanic/Latino,No,Yes,No
+STU00330,North Ridge High School,12,Male,White,No,No,Yes
+STU00331,Riverbend School,10,Female,Hispanic/Latino,No,No,No
+STU00332,North Ridge High School,11,Male,Hispanic/Latino,No,No,Yes
+STU00333,Riverbend School,7,Female,Black/African American,No,No,No
+STU00334,West Mesa Secondary,11,Female,Hispanic/Latino,No,No,Yes
+STU00335,Eastview Middle School,6,Female,White,No,No,No
+STU00336,Riverbend School,7,Female,Native American,No,No,No
+STU00337,Eastview Middle School,9,Female,White,No,No,Yes
+STU00338,Riverbend School,6,Female,White,No,No,Yes
+STU00339,Eastview Middle School,12,Female,Hispanic/Latino,No,No,Yes
+STU00340,West Mesa Secondary,12,Female,Hispanic/Latino,No,No,No
+STU00341,Eastview Middle School,9,Male,Hispanic/Latino,No,No,No
+STU00342,West Mesa Secondary,8,Male,Black/African American,No,No,Yes
+STU00343,West Mesa Secondary,6,Male,Asian,No,No,No
+STU00344,Central Academy,10,Female,Hispanic/Latino,Yes,No,Yes
+STU00345,Riverbend School,9,Female,Hispanic/Latino,No,No,Yes
+STU00346,Riverbend School,11,Male,Hispanic/Latino,No,No,No
+STU00347,West Mesa Secondary,10,Female,White,No,No,No
+STU00348,North Ridge High School,6,Female,White,No,No,No
+STU00349,Central Academy,6,Male,Black/African American,No,No,Yes
+STU00350,Eastview Middle School,11,Male,Native American,No,Yes,Yes
+STU00351,Riverbend School,7,Female,Hispanic/Latino,No,No,No
+STU00352,Eastview Middle School,12,Male,White,Yes,No,No
+STU00353,Central Academy,6,Female,White,No,No,Yes
+STU00354,Central Academy,11,Male,Hispanic/Latino,No,Yes,No
+STU00355,Central Academy,12,Female,Native American,No,No,No
+STU00356,Central Academy,9,Female,Hispanic/Latino,No,Yes,Yes
+STU00357,Riverbend School,6,Male,Black/African American,Yes,No,Yes
+STU00358,Riverbend School,12,Female,Black/African American,No,No,No
+STU00359,Central Academy,7,Male,Native American,No,No,Yes
+STU00360,Central Academy,9,Female,White,No,No,Yes
+STU00361,West Mesa Secondary,12,Male,Hispanic/Latino,Yes,No,Yes
+STU00362,Eastview Middle School,11,Male,Asian,No,No,No
+STU00363,Eastview Middle School,6,Male,Black/African American,No,No,No
+STU00364,Eastview Middle School,11,Male,White,No,No,Yes
+STU00365,Riverbend School,7,Female,Black/African American,No,No,Yes
+STU00366,North Ridge High School,11,Male,Hispanic/Latino,No,No,No
+STU00367,Riverbend School,10,Female,White,No,No,No
+STU00368,Riverbend School,8,Male,Native American,No,No,No
+STU00369,North Ridge High School,8,Male,Hispanic/Latino,No,No,Yes
+STU00370,West Mesa Secondary,6,Male,White,Yes,No,No
+STU00371,Riverbend School,12,Male,Multiracial,No,No,No
+STU00372,North Ridge High School,7,Male,Asian,No,Yes,No
+STU00373,North Ridge High School,8,Female,Native American,No,No,Yes
+STU00374,North Ridge High School,9,Male,White,No,No,No
+STU00375,Eastview Middle School,10,Male,Multiracial,Yes,No,Yes
+STU00376,Eastview Middle School,9,Female,Hispanic/Latino,No,No,Yes
+STU00377,West Mesa Secondary,9,Male,White,No,No,Yes
+STU00378,Central Academy,10,Female,White,No,No,No
+STU00379,North Ridge High School,12,Female,Asian,Yes,No,Yes
+STU00380,Riverbend School,8,Female,Native American,No,No,No
+STU00381,Central Academy,11,Female,Black/African American,No,No,Yes
+STU00382,West Mesa Secondary,11,Male,White,Yes,No,Yes
+STU00383,Riverbend School,12,Male,White,No,No,Yes
+STU00384,Central Academy,12,Male,White,Yes,No,No
+STU00385,North Ridge High School,11,Male,White,Yes,No,Yes
+STU00386,West Mesa Secondary,7,Female,Hispanic/Latino,No,No,Yes
+STU00387,Riverbend School,11,Female,White,No,No,Yes
+STU00388,West Mesa Secondary,11,Female,Asian,No,No,Yes
+STU00389,Eastview Middle School,8,Male,Black/African American,Yes,No,No
+STU00390,West Mesa Secondary,10,Female,Asian,No,No,Yes
+STU00391,Riverbend School,7,Male,White,No,No,Yes
+STU00392,Eastview Middle School,9,Male,White,No,No,No
+STU00393,Central Academy,11,Male,Hispanic/Latino,No,No,Yes
+STU00394,Riverbend School,7,Male,White,No,Yes,Yes
+STU00395,Eastview Middle School,8,Female,White,No,No,Yes
+STU00396,Central Academy,11,Male,Hispanic/Latino,No,No,Yes
+STU00397,West Mesa Secondary,9,Male,Hispanic/Latino,No,No,No
+STU00398,North Ridge High School,12,Male,Black/African American,Yes,No,Yes
+STU00399,Central Academy,6,Male,White,No,No,Yes
+STU00400,Central Academy,11,Male,White,No,No,No
+STU00401,North Ridge High School,11,Nonbinary,Hispanic/Latino,No,No,Yes
+STU00402,West Mesa Secondary,12,Female,White,,No,No
+STU00403,Riverbend School,7,Male,White,No,No,No
+STU00404,Eastview Middle School,12,Male,White,No,No,Yes
+STU00405,West Mesa Secondary,8,Female,White,No,No,Yes
+STU00406,West Mesa Secondary,8,Male,Hispanic/Latino,No,No,Yes
+STU00407,North Ridge High School,8,Female,Native American,No,No,
+STU00408,West Mesa Secondary,10,Male,Hispanic/Latino,No,No,Yes
+STU00409,Eastview Middle School,10,Female,White,Yes,No,No
+STU00410,West Mesa Secondary,9,Female,Hispanic/Latino,No,No,Yes
+STU00411,Riverbend School,6,Male,White,No,No,Yes
+STU00412,Riverbend School,12,Female,Hispanic/Latino,Yes,No,Yes
+STU00413,Eastview Middle School,7,Female,Native American,No,No,No
+STU00414,West Mesa Secondary,6,Female,White,Yes,No,No
+STU00415,Eastview Middle School,10,Male,White,No,No,Yes
+STU00416,North Ridge High School,8,Male,Hispanic/Latino,No,No,No
+STU00417,Eastview Middle School,10,Male,Hispanic/Latino,No,No,Yes
+STU00418,Riverbend School,12,Female,White,No,No,No
+STU00419,Eastview Middle School,6,Male,White,No,No,No
+STU00420,West Mesa Secondary,7,Female,White,No,Yes,No
+STU00421,Riverbend School,9,Male,Multiracial,No,No,Yes
+STU00422,Eastview Middle School,11,Female,Black/African American,No,No,Yes
+STU00423,Eastview Middle School,10,Female,Multiracial,No,No,No
+STU00424,Eastview Middle School,8,Female,Hispanic/Latino,No,No,Yes
+STU00425,Riverbend School,10,Male,Asian,No,No,Yes
+STU00426,West Mesa Secondary,12,Male,White,No,Yes,No
+STU00427,North Ridge High School,9,Female,White,Yes,Yes,No
+STU00428,West Mesa Secondary,12,Male,Multiracial,No,No,No
+STU00429,Eastview Middle School,11,Male,White,No,No,No
+STU00430,West Mesa Secondary,8,Female,Native American,No,No,No
+STU00431,West Mesa Secondary,7,Male,Black/African American,No,No,Yes
+STU00432,Riverbend School,11,Male,Hispanic/Latino,No,No,Yes
+STU00433,Riverbend School,7,Female,Black/African American,Yes,No,No
+STU00434,West Mesa Secondary,8,Male,White,No,No,No
+STU00435,Eastview Middle School,7,Female,Native American,No,Yes,Yes
+STU00436,North Ridge High School,10,Male,Asian,Yes,No,Yes
+STU00437,Eastview Middle School,8,Female,Hispanic/Latino,Yes,No,No
+STU00438,Central Academy,10,Male,Hispanic/Latino,No,No,Yes
+STU00439,Riverbend School,12,Female,Hispanic/Latino,No,No,Yes
+STU00440,Riverbend School,11,Male,White,No,No,No
+STU00441,West Mesa Secondary,12,Male,Hispanic/Latino,No,No,Yes
+STU00442,Eastview Middle School,6,Female,Black/African American,Yes,No,Yes
+STU00443,Riverbend School,9,Male,White,No,No,Yes
+STU00444,Eastview Middle School,7,Nonbinary,Asian,No,No,Yes
+STU00445,North Ridge High School,12,Male,Hispanic/Latino,No,No,No
+STU00446,Riverbend School,10,Female,White,No,No,Yes
+STU00447,West Mesa Secondary,8,Male,Hispanic/Latino,Yes,No,Yes
+STU00448,Riverbend School,9,Female,Native American,No,No,Yes
+STU00449,Eastview Middle School,10,Female,Hispanic/Latino,No,No,Yes
+STU00450,Riverbend School,9,Male,Hispanic/Latino,Yes,No,Yes
+STU00451,Eastview Middle School,9,Male,Hispanic/Latino,No,No,Yes
+STU00452,West Mesa Secondary,6,Male,Asian,Yes,No,No
+STU00453,Riverbend School,9,Female,Hispanic/Latino,Yes,Yes,Yes
+STU00454,Eastview Middle School,8,Male,White,No,No,Yes
+STU00455,Eastview Middle School,11,Male,Black/African American,No,No,Yes
+STU00456,Eastview Middle School,12,Female,Black/African American,No,No,Yes
+STU00457,West Mesa Secondary,11,Male,Hispanic/Latino,No,No,Yes
+STU00458,Central Academy,6,Female,Hispanic/Latino,No,Yes,Yes
+STU00459,Riverbend School,11,Female,White,Yes,No,Yes
+STU00460,Riverbend School,8,Male,Hispanic/Latino,No,No,Yes
+STU00461,Central Academy,8,Male,Black/African American,No,No,No
+STU00462,Eastview Middle School,12,Female,Hispanic/Latino,No,No,Yes
+STU00463,West Mesa Secondary,12,Female,White,No,No,No
+STU00464,North Ridge High School,6,Female,Hispanic/Latino,No,No,No
+STU00465,Central Academy,8,Male,White,No,No,Yes
+STU00466,Riverbend School,11,Female,Hispanic/Latino,No,Yes,Yes
+STU00467,Riverbend School,9,Male,Black/African American,No,No,Yes
+STU00468,West Mesa Secondary,7,Nonbinary,Hispanic/Latino,No,No,Yes
+STU00469,Eastview Middle School,9,Female,Multiracial,Yes,No,No
+STU00470,Central Academy,12,Male,Black/African American,Yes,No,Yes
+STU00471,North Ridge High School,7,Male,Hispanic/Latino,No,No,No
+STU00472,Central Academy,11,Male,Hispanic/Latino,Yes,No,Yes
+STU00473,Eastview Middle School,11,Female,Hispanic/Latino,Yes,No,No
+STU00474,Eastview Middle School,12,Female,,No,No,No
+STU00475,North Ridge High School,8,Female,Hispanic/Latino,No,No,Yes
+STU00476,North Ridge High School,7,Male,Native American,No,Yes,No
+STU00477,Central Academy,9,Male,White,No,Yes,No
+STU00478,Riverbend School,9,Female,Hispanic/Latino,No,No,Yes
+STU00479,Riverbend School,8,Female,White,No,No,Yes
+STU00480,North Ridge High School,11,Male,Hispanic/Latino,No,No,Yes
+STU00481,North Ridge High School,11,Female,Multiracial,No,No,Yes
+STU00482,North Ridge High School,7,Female,Hispanic/Latino,No,No,No
+STU00483,Central Academy,11,Male,Black/African American,No,No,Yes
+STU00484,North Ridge High School,7,Female,Black/African American,No,No,Yes
+STU00485,Eastview Middle School,8,Female,Hispanic/Latino,Yes,No,No
+STU00486,North Ridge High School,6,Female,Hispanic/Latino,No,No,Yes
+STU00487,Central Academy,8,Female,White,No,No,No
+STU00488,North Ridge High School,12,Male,Native American,No,No,Yes
+STU00489,Central Academy,9,Male,White,No,No,No
+STU00490,Central Academy,10,Male,White,No,No,No
+STU00491,Riverbend School,6,Female,Asian,No,No,Yes
+STU00492,Riverbend School,10,Male,Asian,No,No,No
+STU00493,Riverbend School,8,Female,White,No,No,Yes
+STU00494,North Ridge High School,11,Male,White,No,No,No
+STU00495,Riverbend School,12,Female,Black/African American,No,No,No
+STU00496,Central Academy,9,Male,Hispanic/Latino,Yes,No,Yes
+STU00497,Central Academy,6,Female,Asian,No,No,No
+STU00498,Riverbend School,9,Female,Hispanic/Latino,No,No,No
+STU00499,North Ridge High School,6,Male,Hispanic/Latino,No,No,No
+STU00500,Central Academy,9,Female,Asian,No,No,No
+STU00501,Riverbend School,6,Female,Hispanic/Latino,Yes,No,No
+STU00502,West Mesa Secondary,10,Male,Hispanic/Latino,No,No,Yes
+STU00503,West Mesa Secondary,8,Male,Hispanic/Latino,No,No,No
+STU00504,Central Academy,7,Female,White,No,No,No
+STU00505,Central Academy,6,Male,Asian,Yes,No,Yes
+STU00506,Riverbend School,12,Male,Hispanic/Latino,No,Yes,Yes
+STU00507,North Ridge High School,11,Male,Hispanic/Latino,Yes,No,Yes
+STU00508,West Mesa Secondary,11,Male,White,No,No,Yes
+STU00509,Central Academy,6,Male,Multiracial,No,No,Yes
+STU00510,Eastview Middle School,8,Male,Hispanic/Latino,Yes,Yes,Yes
+STU00511,Eastview Middle School,12,Male,Multiracial,Yes,No,No
+STU00512,West Mesa Secondary,10,Male,Native American,No,No,Yes
+STU00513,Eastview Middle School,6,Female,Hispanic/Latino,No,No,Yes
+STU00514,North Ridge High School,6,Female,Asian,No,Yes,No
+STU00515,North Ridge High School,7,Female,Black/African American,No,No,Yes
+STU00516,Eastview Middle School,12,Male,White,No,Yes,Yes
+STU00517,North Ridge High School,7,Female,White,No,No,No
+STU00518,Riverbend School,12,Male,Asian,No,No,No
+STU00519,Eastview Middle School,10,Male,Asian,No,No,No
+STU00520,West Mesa Secondary,12,Nonbinary,Black/African American,No,No,Yes
+STU00521,West Mesa Secondary,11,Female,Multiracial,No,No,Yes
+STU00522,North Ridge High School,8,Male,White,No,No,No
+STU00523,Eastview Middle School,11,Male,Asian,No,Yes,No
+STU00524,Riverbend School,7,Female,Native American,No,No,No
+STU00525,Eastview Middle School,8,Male,Hispanic/Latino,No,No,No
+STU00526,North Ridge High School,7,Female,Hispanic/Latino,Yes,No,Yes
+STU00527,West Mesa Secondary,6,Male,White,No,No,Yes
+STU00528,West Mesa Secondary,6,Male,Asian,No,No,No
+STU00529,Riverbend School,7,Female,Hispanic/Latino,No,No,No
+STU00530,North Ridge High School,6,Female,Black/African American,Yes,No,Yes
+STU00531,Riverbend School,8,Female,Hispanic/Latino,No,No,No
+STU00532,Riverbend School,6,Female,Hispanic/Latino,No,Yes,Yes
+STU00533,North Ridge High School,6,Male,White,No,No,No
+STU00534,Riverbend School,12,Female,Hispanic/Latino,No,No,Yes
+STU00535,Eastview Middle School,6,Female,Native American,No,No,No
+STU00536,North Ridge High School,6,Male,Hispanic/Latino,No,No,Yes
+STU00537,Central Academy,6,Male,Native American,No,No,No
+STU00538,Eastview Middle School,6,Male,Hispanic/Latino,No,Yes,No
+STU00539,Eastview Middle School,9,Male,Multiracial,No,No,Yes
+STU00540,West Mesa Secondary,11,Female,White,No,No,No
+STU00541,West Mesa Secondary,11,Male,Hispanic/Latino,No,No,No
+STU00542,Central Academy,10,Female,Hispanic/Latino,No,No,No
+STU00543,West Mesa Secondary,6,Male,Hispanic/Latino,Yes,No,Yes
+STU00544,West Mesa Secondary,11,Nonbinary,White,Yes,No,No
+STU00545,Eastview Middle School,6,Male,Asian,No,No,No
+STU00546,Central Academy,10,Male,White,No,No,No
+STU00547,North Ridge High School,8,Male,White,No,No,Yes
+STU00548,Eastview Middle School,12,Female,White,No,Yes,No
+STU00549,Riverbend School,8,Male,White,No,No,Yes
+STU00550,Central Academy,10,Male,Black/African American,No,No,Yes
+STU00551,Central Academy,9,Nonbinary,White,No,No,Yes
+STU00552,Eastview Middle School,9,Male,Black/African American,No,No,Yes
+STU00553,Eastview Middle School,12,Female,Multiracial,No,No,Yes
+STU00554,West Mesa Secondary,10,Male,Hispanic/Latino,No,No,Yes
+STU00555,Eastview Middle School,8,Female,Hispanic/Latino,No,No,No
+STU00556,North Ridge High School,9,Female,,No,No,No
+STU00557,North Ridge High School,10,Female,White,No,Yes,Yes
+STU00558,Central Academy,8,Male,Hispanic/Latino,No,No,No
+STU00559,Central Academy,7,Female,Multiracial,Yes,Yes,No
+STU00560,Central Academy,9,Female,White,No,No,No
+STU00561,Eastview Middle School,6,Female,White,No,No,No
+STU00562,North Ridge High School,7,Male,Asian,Yes,No,No
+STU00563,West Mesa Secondary,8,Male,Hispanic/Latino,No,No,No
+STU00564,Riverbend School,11,Female,Asian,No,No,No
+STU00565,Riverbend School,11,Female,Hispanic/Latino,No,No,No
+STU00566,Riverbend School,7,Male,White,No,No,Yes
+STU00567,Riverbend School,8,Female,Multiracial,No,No,No
+STU00568,Eastview Middle School,7,Male,Asian,No,No,No
+STU00569,North Ridge High School,11,Female,Asian,No,No,No
+STU00570,Central Academy,7,Male,White,No,No,No
+STU00571,North Ridge High School,11,Female,Asian,No,Yes,Yes
+STU00572,West Mesa Secondary,11,Male,White,No,Yes,Yes
+STU00573,Central Academy,10,Female,White,No,No,No
+STU00574,Riverbend School,8,Male,Hispanic/Latino,Yes,No,No
+STU00575,West Mesa Secondary,12,Nonbinary,Hispanic/Latino,No,No,No
+STU00576,Central Academy,10,Male,White,Yes,No,No
+STU00577,West Mesa Secondary,10,Female,Hispanic/Latino,No,No,No
+STU00578,Central Academy,11,Female,Black/African American,No,No,No
+STU00579,West Mesa Secondary,12,Male,Asian,No,No,Yes
+STU00580,North Ridge High School,6,Male,Native American,No,No,No
+STU00581,Central Academy,12,Female,Hispanic/Latino,No,No,Yes
+STU00582,Central Academy,11,Female,Multiracial,No,No,No
+STU00583,Eastview Middle School,7,Female,Hispanic/Latino,No,No,Yes
+STU00584,North Ridge High School,8,Male,White,No,No,No
+STU00585,West Mesa Secondary,11,Male,Asian,No,No,Yes
+STU00586,Riverbend School,7,Male,Hispanic/Latino,Yes,No,Yes
+STU00587,Eastview Middle School,9,Male,Hispanic/Latino,No,No,No
+STU00588,North Ridge High School,10,Female,Hispanic/Latino,No,No,No
+STU00589,Eastview Middle School,10,Female,White,No,No,Yes
+STU00590,Eastview Middle School,12,Female,Asian,No,No,No
+STU00591,West Mesa Secondary,6,Male,Hispanic/Latino,No,No,Yes
+STU00592,Central Academy,8,Female,Hispanic/Latino,No,No,Yes
+STU00593,North Ridge High School,12,Female,White,No,No,Yes
+STU00594,Central Academy,9,Female,Hispanic/Latino,No,Yes,No
+STU00595,Eastview Middle School,7,Female,Black/African American,No,No,No
+STU00596,North Ridge High School,8,Male,Multiracial,No,No,No
+STU00597,Riverbend School,8,Female,Black/African American,No,No,No
+STU00598,Riverbend School,9,Female,Native American,No,No,No
+STU00599,West Mesa Secondary,7,Male,White,Yes,No,No
+STU00600,Riverbend School,10,Female,Asian,No,No,No
+STU00601,Central Academy,9,Female,,No,Yes,Yes
+STU00602,Riverbend School,10,Female,Hispanic/Latino,No,No,Yes
+STU00603,West Mesa Secondary,7,Male,White,Yes,No,Yes
+STU00604,Riverbend School,10,Female,Hispanic/Latino,No,No,No
+STU00605,West Mesa Secondary,12,Male,Native American,Yes,No,No
+STU00606,Riverbend School,6,Male,Black/African American,No,No,Yes
+STU00607,West Mesa Secondary,8,Male,Multiracial,No,No,No
+STU00608,Eastview Middle School,10,Female,Hispanic/Latino,No,No,No
+STU00609,Riverbend School,10,Male,White,No,No,Yes
+STU00610,Central Academy,10,Female,Black/African American,No,No,Yes
+STU00611,Central Academy,9,Female,Hispanic/Latino,No,No,Yes
+STU00612,Riverbend School,10,Male,White,Yes,No,Yes
+STU00613,West Mesa Secondary,10,Female,White,No,No,No
+STU00614,West Mesa Secondary,6,Female,Multiracial,No,No,No
+STU00615,North Ridge High School,11,Female,Black/African American,No,No,Yes
+STU00616,Riverbend School,9,Female,Hispanic/Latino,No,Yes,Yes
+STU00617,Riverbend School,6,Female,White,No,No,Yes
+STU00618,North Ridge High School,8,Male,White,No,No,Yes
+STU00619,Eastview Middle School,9,Male,,Yes,No,Yes
+STU00620,Eastview Middle School,6,Female,White,No,No,No
+STU00621,Riverbend School,12,Male,Hispanic/Latino,No,No,No
+STU00622,Central Academy,7,Female,Hispanic/Latino,No,No,No
+STU00623,West Mesa Secondary,8,Female,White,Yes,No,Yes
+STU00624,Central Academy,9,Female,Hispanic/Latino,Yes,No,No
+STU00625,West Mesa Secondary,11,Female,White,Yes,No,Yes
+STU00626,North Ridge High School,11,Female,Hispanic/Latino,No,No,Yes
+STU00627,Riverbend School,11,Female,Black/African American,No,Yes,No
+STU00628,Eastview Middle School,7,Female,Hispanic/Latino,Yes,No,No
+STU00629,Central Academy,11,Male,Native American,Yes,No,Yes
+STU00630,West Mesa Secondary,11,Female,Hispanic/Latino,No,No,Yes
+STU00631,West Mesa Secondary,9,Female,White,No,No,No
+STU00632,West Mesa Secondary,9,Female,Hispanic/Latino,No,No,No
+STU00633,Eastview Middle School,6,Male,Hispanic/Latino,No,No,No
+STU00634,North Ridge High School,11,Female,White,Yes,Yes,Yes
+STU00635,Eastview Middle School,12,Male,Asian,No,Yes,Yes
+STU00636,Eastview Middle School,9,Female,Native American,Yes,No,No
+STU00637,Riverbend School,9,Female,Hispanic/Latino,No,No,Yes
+STU00638,Riverbend School,9,Male,Hispanic/Latino,Yes,Yes,No
+STU00639,Riverbend School,6,Female,Black/African American,No,Yes,No
+STU00640,West Mesa Secondary,10,Female,White,Yes,No,Yes
+STU00641,Riverbend School,11,Female,Hispanic/Latino,No,No,No
+STU00642,West Mesa Secondary,12,Nonbinary,Black/African American,No,Yes,No
+STU00643,Eastview Middle School,12,Male,White,No,No,No
+STU00644,North Ridge High School,9,Male,White,No,No,Yes
+STU00645,Riverbend School,12,Nonbinary,Hispanic/Latino,Yes,No,Yes
+STU00646,West Mesa Secondary,9,Female,White,No,No,Yes
+STU00647,Eastview Middle School,10,Male,Hispanic/Latino,Yes,No,Yes
+STU00648,Central Academy,10,Female,Black/African American,No,No,Yes
+STU00649,Riverbend School,12,Male,Hispanic/Latino,No,No,Yes
+STU00650,Eastview Middle School,11,Female,Black/African American,Yes,No,Yes
+STU00651,North Ridge High School,6,Female,Asian,No,No,Yes
+STU00652,West Mesa Secondary,6,Male,Black/African American,Yes,No,No
+STU00653,Riverbend School,8,Female,Hispanic/Latino,Yes,No,No
+STU00654,North Ridge High School,9,Nonbinary,Hispanic/Latino,No,No,Yes
+STU00655,West Mesa Secondary,10,Female,White,No,No,No
+STU00656,North Ridge High School,9,Male,White,No,Yes,Yes
+STU00657,West Mesa Secondary,9,Male,Native American,No,No,Yes
+STU00658,North Ridge High School,12,Female,Hispanic/Latino,No,No,No
+STU00659,Central Academy,8,Male,Native American,No,No,Yes
+STU00660,North Ridge High School,9,Male,Hispanic/Latino,Yes,No,Yes
+STU00661,North Ridge High School,9,Male,Hispanic/Latino,No,No,Yes
+STU00662,West Mesa Secondary,9,Female,Hispanic/Latino,Yes,No,Yes
+STU00663,Eastview Middle School,12,Male,Black/African American,No,Yes,
+STU00664,Eastview Middle School,12,Male,Hispanic/Latino,No,No,Yes
+STU00665,North Ridge High School,9,Female,Hispanic/Latino,No,No,Yes
+STU00666,Riverbend School,9,Female,Black/African American,No,No,Yes
+STU00667,West Mesa Secondary,10,Female,White,No,No,No
+STU00668,West Mesa Secondary,7,Male,Hispanic/Latino,No,No,Yes
+STU00669,North Ridge High School,8,Female,Hispanic/Latino,No,No,No
+STU00670,North Ridge High School,7,Male,White,No,Yes,No
+STU00671,Eastview Middle School,7,Nonbinary,Hispanic/Latino,No,Yes,Yes
+STU00672,Central Academy,6,Female,Hispanic/Latino,Yes,No,No
+STU00673,West Mesa Secondary,10,Female,White,No,No,Yes
+STU00674,Riverbend School,6,Male,Hispanic/Latino,No,No,Yes
+STU00675,Central Academy,10,Female,White,No,No,Yes
+STU00676,North Ridge High School,9,Male,Hispanic/Latino,Yes,No,Yes
+STU00677,West Mesa Secondary,8,Male,Hispanic/Latino,No,No,No
+STU00678,Central Academy,11,Male,Hispanic/Latino,No,No,No
+STU00679,Eastview Middle School,9,Female,Hispanic/Latino,No,No,Yes
+STU00680,North Ridge High School,11,Male,Hispanic/Latino,Yes,No,Yes
+STU00681,Eastview Middle School,10,Male,Hispanic/Latino,No,No,No
+STU00682,North Ridge High School,6,Female,Native American,No,No,Yes
+STU00683,Eastview Middle School,7,Male,Asian,No,No,Yes
+STU00684,Central Academy,9,Male,Hispanic/Latino,No,No,No
+STU00685,Riverbend School,12,Male,White,No,Yes,No
+STU00686,North Ridge High School,7,Female,White,No,No,No
+STU00687,Central Academy,6,Female,Asian,No,Yes,Yes
+STU00688,West Mesa Secondary,12,Female,Hispanic/Latino,No,No,Yes
+STU00689,Riverbend School,12,Female,Hispanic/Latino,No,No,Yes
+STU00690,Central Academy,7,Female,Hispanic/Latino,No,No,No
+STU00691,North Ridge High School,8,Nonbinary,Hispanic/Latino,No,No,Yes
+STU00692,West Mesa Secondary,10,Female,Hispanic/Latino,No,No,Yes
+STU00693,North Ridge High School,7,Male,Native American,Yes,No,Yes
+STU00694,North Ridge High School,8,Female,Native American,No,No,No
+STU00695,West Mesa Secondary,8,Female,Hispanic/Latino,Yes,Yes,No
+STU00696,Central Academy,10,Female,White,No,No,No
+STU00697,Riverbend School,8,Female,White,Yes,No,Yes
+STU00698,Central Academy,8,Male,White,No,No,No
+STU00699,Riverbend School,8,Male,White,No,No,Yes
+STU00700,North Ridge High School,11,Male,Hispanic/Latino,No,No,Yes
+STU00701,North Ridge High School,7,Female,Asian,No,No,Yes
+STU00702,North Ridge High School,7,Male,Multiracial,No,No,Yes
+STU00703,Eastview Middle School,7,Female,White,No,No,Yes
+STU00704,West Mesa Secondary,12,Male,Black/African American,Yes,No,No
+STU00705,North Ridge High School,12,Male,White,No,No,Yes
+STU00706,Central Academy,9,Female,Hispanic/Latino,No,No,Yes
+STU00707,Riverbend School,7,Female,Hispanic/Latino,No,No,No
+STU00708,Riverbend School,11,Female,White,Yes,No,No
+STU00709,Central Academy,9,Female,Hispanic/Latino,No,Yes,Yes
+STU00710,Central Academy,11,Male,Asian,No,No,No
+STU00711,West Mesa Secondary,8,Male,White,Yes,No,Yes
+STU00712,Riverbend School,12,Male,White,Yes,No,Yes
+STU00713,West Mesa Secondary,11,Female,Hispanic/Latino,No,Yes,No
+STU00714,West Mesa Secondary,7,Male,Multiracial,No,No,No
+STU00715,Riverbend School,11,Female,Hispanic/Latino,No,No,Yes
+STU00716,Eastview Middle School,8,Male,Hispanic/Latino,No,Yes,Yes
+STU00717,Central Academy,8,Female,Hispanic/Latino,No,No,Yes
+STU00718,Eastview Middle School,7,Female,White,No,No,Yes
+STU00719,Riverbend School,10,Male,Multiracial,No,No,No
+STU00720,West Mesa Secondary,7,Female,Hispanic/Latino,No,No,No
+STU00721,Central Academy,10,Female,Native American,No,No,No
+STU00722,Central Academy,10,Male,Hispanic/Latino,Yes,No,Yes
+STU00723,Eastview Middle School,11,Female,White,No,No,
+STU00724,West Mesa Secondary,12,Male,Hispanic/Latino,No,No,Yes
+STU00725,Eastview Middle School,6,Male,White,No,No,Yes
+STU00726,Eastview Middle School,12,Male,White,No,No,Yes
+STU00727,North Ridge High School,6,Male,White,No,No,Yes
+STU00728,Eastview Middle School,9,Male,Hispanic/Latino,No,No,No
+STU00729,Central Academy,8,Male,Asian,Yes,No,No
+STU00730,Central Academy,10,Male,Multiracial,No,No,No
+STU00731,North Ridge High School,11,Male,White,No,No,No
+STU00732,Eastview Middle School,12,Female,White,No,No,No
+STU00733,Eastview Middle School,8,Female,Asian,No,No,No
+STU00734,North Ridge High School,12,Male,Hispanic/Latino,No,No,No
+STU00735,Eastview Middle School,8,Female,Native American,No,No,No
+STU00736,Riverbend School,7,Female,Hispanic/Latino,No,No,No
+STU00737,North Ridge High School,8,Female,Black/African American,Yes,No,Yes
+STU00738,North Ridge High School,9,Male,Hispanic/Latino,No,Yes,No
+STU00739,North Ridge High School,10,Female,Hispanic/Latino,No,No,Yes
+STU00740,North Ridge High School,11,Male,White,No,Yes,Yes
+STU00741,Eastview Middle School,7,Male,White,Yes,No,No
+STU00742,Eastview Middle School,8,Male,Asian,No,No,Yes
+STU00743,West Mesa Secondary,12,Female,Multiracial,No,No,Yes
+STU00744,Eastview Middle School,9,Male,Hispanic/Latino,No,Yes,Yes
+STU00745,Central Academy,7,Male,Hispanic/Latino,No,No,Yes
+STU00746,Central Academy,12,Female,Hispanic/Latino,No,No,No
+STU00747,North Ridge High School,9,Male,White,No,No,No
+STU00748,Central Academy,12,Female,White,No,No,Yes
+STU00749,Riverbend School,12,Male,Asian,No,No,No
+STU00750,West Mesa Secondary,12,Female,Black/African American,No,Yes,No
+STU00751,North Ridge High School,10,Male,Hispanic/Latino,No,No,No
+STU00752,North Ridge High School,11,Male,White,Yes,No,Yes
+STU00753,North Ridge High School,12,Female,White,No,No,Yes
+STU00754,Central Academy,7,Male,White,Yes,No,Yes
+STU00755,Riverbend School,6,Female,Hispanic/Latino,Yes,No,Yes
+STU00756,North Ridge High School,8,Male,White,No,No,No
+STU00757,North Ridge High School,10,Male,White,No,No,Yes
+STU00758,West Mesa Secondary,9,Female,Hispanic/Latino,No,No,No
+STU00759,Eastview Middle School,6,Female,Black/African American,No,No,No
+STU00760,Central Academy,9,Male,Hispanic/Latino,No,No,Yes
+STU00761,Riverbend School,7,Female,White,No,No,Yes
+STU00762,Eastview Middle School,9,Male,White,No,No,No
+STU00763,Eastview Middle School,10,Male,Native American,Yes,Yes,No
+STU00764,Eastview Middle School,10,Male,Hispanic/Latino,No,No,Yes
+STU00765,West Mesa Secondary,8,Female,Hispanic/Latino,Yes,No,No
+STU00766,Eastview Middle School,8,Male,,Yes,No,No
+STU00767,Eastview Middle School,10,Male,White,,No,No
+STU00768,Eastview Middle School,11,Female,Hispanic/Latino,No,No,Yes
+STU00769,Eastview Middle School,11,Female,Black/African American,No,No,No
+STU00770,Riverbend School,8,Female,Hispanic/Latino,No,Yes,No
+STU00771,North Ridge High School,8,Female,Hispanic/Latino,No,Yes,Yes
+STU00772,Central Academy,8,Male,White,No,No,No
+STU00773,Central Academy,9,Female,Black/African American,Yes,No,No
+STU00774,West Mesa Secondary,6,Male,Asian,No,No,Yes
+STU00775,Eastview Middle School,9,Female,Black/African American,No,No,No
+STU00776,West Mesa Secondary,7,Female,White,No,No,No
+STU00777,Riverbend School,9,Female,Black/African American,Yes,No,No
+STU00778,Eastview Middle School,11,Male,Black/African American,Yes,No,No
+STU00779,Riverbend School,12,Male,Hispanic/Latino,No,No,Yes
+STU00780,West Mesa Secondary,9,Female,White,Yes,No,Yes
+STU00781,North Ridge High School,6,Male,Black/African American,No,Yes,Yes
+STU00782,West Mesa Secondary,7,Female,Hispanic/Latino,No,Yes,No
+STU00783,Central Academy,6,Female,White,Yes,No,Yes
+STU00784,Riverbend School,11,Female,White,Yes,Yes,No
+STU00785,West Mesa Secondary,12,Nonbinary,White,No,No,Yes
+STU00786,North Ridge High School,9,Male,Hispanic/Latino,No,No,Yes
+STU00787,West Mesa Secondary,7,Male,Black/African American,No,No,No
+STU00788,North Ridge High School,6,Female,Native American,No,No,No
+STU00789,Riverbend School,12,Female,Hispanic/Latino,No,Yes,Yes
+STU00790,Riverbend School,8,Male,Hispanic/Latino,No,No,Yes
+STU00791,North Ridge High School,6,Female,Hispanic/Latino,No,No,Yes
+STU00792,North Ridge High School,7,Male,Hispanic/Latino,Yes,No,Yes
+STU00793,North Ridge High School,7,Male,Multiracial,No,No,Yes
+STU00794,Eastview Middle School,10,Female,White,No,No,No
+STU00795,Eastview Middle School,12,Male,Hispanic/Latino,No,No,Yes
+STU00796,North Ridge High School,7,Male,Hispanic/Latino,No,No,Yes
+STU00797,Eastview Middle School,10,Female,Multiracial,No,No,Yes
+STU00798,Eastview Middle School,6,Male,Hispanic/Latino,Yes,Yes,Yes
+STU00799,Riverbend School,6,Male,Black/African American,No,Yes,No
+STU00800,Riverbend School,6,Female,Hispanic/Latino,No,Yes,Yes
+STU00801,Riverbend School,12,Male,Hispanic/Latino,No,No,Yes
+STU00802,North Ridge High School,10,Female,Black/African American,No,No,No
+STU00803,West Mesa Secondary,11,Male,Hispanic/Latino,No,No,No
+STU00804,Central Academy,6,Male,Black/African American,No,No,No
+STU00805,Eastview Middle School,6,Male,Hispanic/Latino,Yes,No,No
+STU00806,Eastview Middle School,11,Male,Black/African American,Yes,No,No
+STU00807,Riverbend School,6,Male,Black/African American,Yes,No,No
+STU00808,Eastview Middle School,7,Female,Black/African American,No,No,No
+STU00809,Central Academy,9,Female,Hispanic/Latino,No,No,Yes
+STU00810,West Mesa Secondary,10,Female,Black/African American,No,No,No
+STU00811,Eastview Middle School,7,Male,Multiracial,No,No,No
+STU00812,Eastview Middle School,9,Female,Hispanic/Latino,No,No,No
+STU00813,West Mesa Secondary,10,Female,Hispanic/Latino,Yes,Yes,Yes
+STU00814,Central Academy,9,Male,Asian,No,No,No
+STU00815,Eastview Middle School,8,Female,Hispanic/Latino,No,No,Yes
+STU00816,West Mesa Secondary,6,Female,Black/African American,No,No,No
+STU00817,West Mesa Secondary,9,Female,Black/African American,No,Yes,Yes
+STU00818,Central Academy,11,Female,Hispanic/Latino,No,No,No
+STU00819,Riverbend School,10,Male,White,No,No,No
+STU00820,North Ridge High School,12,Female,White,Yes,No,Yes
+STU00821,Eastview Middle School,6,Female,Hispanic/Latino,No,No,Yes
+STU00822,Central Academy,6,Male,Native American,Yes,No,Yes
+STU00823,North Ridge High School,9,Male,Hispanic/Latino,Yes,Yes,No
+STU00824,Riverbend School,7,Male,Hispanic/Latino,No,No,No
+STU00825,West Mesa Secondary,10,Male,Asian,No,Yes,No
+STU00826,Eastview Middle School,12,Male,Hispanic/Latino,No,No,Yes
+STU00827,Central Academy,8,Female,Asian,No,No,No
+STU00828,North Ridge High School,9,Male,Hispanic/Latino,No,Yes,No
+STU00829,West Mesa Secondary,10,Male,White,Yes,Yes,Yes
+STU00830,North Ridge High School,7,Female,Hispanic/Latino,No,No,Yes
+STU00831,Riverbend School,12,Female,Black/African American,No,No,Yes
+STU00832,Central Academy,7,Female,Asian,Yes,No,Yes
+STU00833,North Ridge High School,11,Male,Asian,No,No,Yes
+STU00834,Riverbend School,10,Male,Multiracial,Yes,No,Yes
+STU00835,Riverbend School,6,Male,Black/African American,Yes,No,Yes
+STU00836,Central Academy,11,Female,Black/African American,No,No,Yes
+STU00837,Riverbend School,7,Female,White,No,No,Yes
+STU00838,West Mesa Secondary,10,Female,Native American,No,No,No
+STU00839,North Ridge High School,12,Male,White,No,No,No
+STU00840,Central Academy,12,Male,Native American,No,No,Yes
+STU00841,Eastview Middle School,12,Male,Hispanic/Latino,Yes,No,No
+STU00842,Riverbend School,9,Male,White,Yes,No,No
+STU00843,Central Academy,9,Male,Black/African American,No,No,Yes
+STU00844,North Ridge High School,8,Male,Hispanic/Latino,No,No,Yes
+STU00845,Eastview Middle School,12,Female,Hispanic/Latino,No,No,Yes
+STU00846,West Mesa Secondary,9,Female,Multiracial,No,No,No
+STU00847,North Ridge High School,11,Female,,No,No,Yes
+STU00848,Riverbend School,8,Female,Hispanic/Latino,No,No,Yes
+STU00849,Eastview Middle School,11,Female,Hispanic/Latino,No,No,No
+STU00850,West Mesa Secondary,7,Female,White,Yes,No,No
+STU00851,Eastview Middle School,11,Male,White,No,No,Yes
+STU00852,Eastview Middle School,6,Female,Native American,No,No,No
+STU00853,West Mesa Secondary,6,Male,Multiracial,No,No,Yes
+STU00854,West Mesa Secondary,8,Male,White,No,No,No
+STU00855,North Ridge High School,9,Male,Black/African American,No,No,No
+STU00856,Central Academy,10,Male,Hispanic/Latino,No,No,No
+STU00857,Riverbend School,8,Female,Asian,No,No,Yes
+STU00858,West Mesa Secondary,6,Male,Hispanic/Latino,Yes,Yes,Yes
+STU00859,North Ridge High School,8,Female,Hispanic/Latino,No,No,No
+STU00860,Central Academy,9,Male,Multiracial,No,No,Yes
+STU00861,Riverbend School,9,Female,Native American,Yes,No,No
+STU00862,Riverbend School,10,Female,Hispanic/Latino,No,No,Yes
+STU00863,Riverbend School,7,Male,Black/African American,No,No,Yes
+STU00864,Central Academy,10,Male,White,No,No,Yes
+STU00865,Eastview Middle School,10,Female,Hispanic/Latino,No,No,Yes
+STU00866,West Mesa Secondary,11,Male,Hispanic/Latino,No,No,Yes
+STU00867,West Mesa Secondary,9,Female,Hispanic/Latino,No,No,Yes
+STU00868,Riverbend School,11,Male,White,Yes,No,No
+STU00869,Eastview Middle School,7,Female,White,No,No,No
+STU00870,North Ridge High School,10,Female,White,Yes,No,No
+STU00871,Riverbend School,6,Female,Hispanic/Latino,Yes,No,No
+STU00872,Eastview Middle School,6,Female,Multiracial,No,No,No
+STU00873,West Mesa Secondary,12,Female,White,No,Yes,No
+STU00874,North Ridge High School,9,Female,Native American,No,No,Yes
+STU00875,Riverbend School,10,Female,Hispanic/Latino,Yes,No,No
+STU00876,West Mesa Secondary,10,Female,White,No,Yes,No
+STU00877,North Ridge High School,10,Male,Asian,No,No,Yes
+STU00878,North Ridge High School,7,Female,Hispanic/Latino,Yes,No,No
+STU00879,Riverbend School,7,Male,Hispanic/Latino,No,Yes,Yes
+STU00880,Central Academy,6,Male,Hispanic/Latino,Yes,No,No
+STU00881,North Ridge High School,12,Female,Hispanic/Latino,No,No,Yes
+STU00882,Riverbend School,7,Male,White,No,No,No
+STU00883,West Mesa Secondary,10,Female,Hispanic/Latino,No,No,Yes
+STU00884,Central Academy,9,Female,Hispanic/Latino,No,No,No
+STU00885,Eastview Middle School,7,Male,White,No,Yes,Yes
+STU00886,North Ridge High School,8,Male,Hispanic/Latino,No,Yes,No
+STU00887,North Ridge High School,6,Male,Hispanic/Latino,No,No,Yes
+STU00888,Eastview Middle School,7,Female,Black/African American,No,No,No
+STU00889,Eastview Middle School,6,Male,Hispanic/Latino,No,No,Yes
+STU00890,Riverbend School,11,Female,Hispanic/Latino,No,No,Yes
+STU00891,North Ridge High School,9,Female,Hispanic/Latino,No,Yes,Yes
+STU00892,West Mesa Secondary,12,Female,Hispanic/Latino,Yes,No,No
+STU00893,North Ridge High School,9,Nonbinary,White,Yes,No,Yes
+STU00894,Eastview Middle School,7,Female,Hispanic/Latino,No,No,No
+STU00895,Riverbend School,10,Male,Hispanic/Latino,No,No,Yes
+STU00896,West Mesa Secondary,12,Male,Multiracial,No,No,No
+STU00897,North Ridge High School,9,Male,Native American,No,Yes,Yes
+STU00898,North Ridge High School,6,Male,Hispanic/Latino,No,No,Yes
+STU00899,Eastview Middle School,8,Male,Hispanic/Latino,No,No,Yes
+STU00900,Central Academy,12,Female,White,No,No,Yes
+STU00901,Central Academy,9,Female,Asian,No,No,Yes
+STU00902,North Ridge High School,12,Male,Asian,No,No,Yes
+STU00903,Eastview Middle School,9,Female,Hispanic/Latino,No,No,No
+STU00904,Central Academy,6,Female,Hispanic/Latino,No,Yes,No
+STU00905,West Mesa Secondary,12,Female,White,No,No,Yes
+STU00906,Riverbend School,11,Female,Native American,Yes,No,No
+STU00907,Central Academy,11,Female,Native American,No,No,Yes
+STU00908,Eastview Middle School,12,Female,Hispanic/Latino,Yes,No,Yes
+STU00909,North Ridge High School,7,Male,White,Yes,No,Yes
+STU00910,North Ridge High School,12,Female,Hispanic/Latino,No,No,Yes
+STU00911,Riverbend School,7,Nonbinary,Black/African American,No,No,Yes
+STU00912,West Mesa Secondary,12,Male,Native American,No,No,No
+STU00913,West Mesa Secondary,7,Female,White,No,No,No
+STU00914,West Mesa Secondary,9,Male,Hispanic/Latino,No,No,No
+STU00915,West Mesa Secondary,11,Male,White,No,No,Yes
+STU00916,West Mesa Secondary,6,Male,White,No,No,Yes
+STU00917,Eastview Middle School,6,Female,Asian,No,No,No
+STU00918,Eastview Middle School,11,Female,Hispanic/Latino,No,No,Yes
+STU00919,North Ridge High School,6,Female,Native American,No,No,Yes
+STU00920,Central Academy,10,Male,Hispanic/Latino,No,No,Yes
+STU00921,Eastview Middle School,12,Nonbinary,Hispanic/Latino,No,No,Yes
+STU00922,West Mesa Secondary,10,Male,Hispanic/Latino,No,No,No
+STU00923,Riverbend School,9,Male,Hispanic/Latino,No,No,Yes
+STU00924,Central Academy,8,Nonbinary,Hispanic/Latino,No,No,Yes
+STU00925,Eastview Middle School,10,Male,Black/African American,No,No,No
+STU00926,North Ridge High School,10,Female,Hispanic/Latino,No,No,No
+STU00927,Eastview Middle School,9,Male,Hispanic/Latino,No,No,Yes
+STU00928,West Mesa Secondary,7,Female,Hispanic/Latino,No,No,Yes
+STU00929,Central Academy,10,Female,Hispanic/Latino,No,No,No
+STU00930,Riverbend School,11,Male,Native American,No,No,Yes
+STU00931,North Ridge High School,10,Male,Multiracial,Yes,No,Yes
+STU00932,North Ridge High School,6,Female,Hispanic/Latino,No,No,Yes
+STU00933,North Ridge High School,10,Male,Black/African American,No,No,Yes
+STU00934,Riverbend School,11,Female,Black/African American,No,No,No
+STU00935,Riverbend School,7,Female,Multiracial,No,Yes,No
+STU00936,North Ridge High School,11,Female,Hispanic/Latino,No,No,No
+STU00937,West Mesa Secondary,9,Male,Hispanic/Latino,No,No,No
+STU00938,Eastview Middle School,9,Male,White,No,No,No
+STU00939,West Mesa Secondary,11,Female,Asian,No,No,No
+STU00940,Eastview Middle School,9,Female,Black/African American,No,No,No
+STU00941,North Ridge High School,9,Female,White,No,Yes,Yes
+STU00942,West Mesa Secondary,8,Female,Hispanic/Latino,Yes,No,Yes
+STU00943,Eastview Middle School,12,Male,Black/African American,No,No,No
+STU00944,North Ridge High School,12,Male,Asian,No,No,Yes
+STU00945,Central Academy,6,Male,White,Yes,No,Yes
+STU00946,North Ridge High School,11,Female,Black/African American,No,No,Yes
+STU00947,Riverbend School,6,Male,White,No,No,No
+STU00948,West Mesa Secondary,8,Female,White,Yes,No,Yes
+STU00949,West Mesa Secondary,12,Female,White,No,Yes,Yes
+STU00950,North Ridge High School,7,Male,Black/African American,No,No,Yes
+STU00951,Central Academy,8,Male,Multiracial,No,No,Yes
+STU00952,North Ridge High School,7,Male,White,No,No,No
+STU00953,North Ridge High School,11,Male,Hispanic/Latino,No,No,Yes
+STU00954,Eastview Middle School,9,Male,Hispanic/Latino,No,No,Yes
+STU00955,West Mesa Secondary,10,Male,Hispanic/Latino,Yes,No,Yes
+STU00956,West Mesa Secondary,12,Female,Hispanic/Latino,No,No,No
+STU00957,Riverbend School,9,Female,Hispanic/Latino,No,No,No
+STU00958,Central Academy,11,Female,White,No,No,Yes
+STU00959,Central Academy,6,Female,Hispanic/Latino,Yes,No,Yes
+STU00960,Central Academy,7,Female,Hispanic/Latino,No,No,No
+STU00961,Central Academy,12,Female,Asian,Yes,No,No
+STU00962,Central Academy,12,Male,Hispanic/Latino,No,No,Yes
+STU00963,Eastview Middle School,10,Male,White,No,No,Yes
+STU00964,Eastview Middle School,8,Male,Native American,No,No,Yes
+STU00965,West Mesa Secondary,7,Female,White,No,No,Yes
+STU00966,Central Academy,11,Male,Hispanic/Latino,Yes,Yes,No
+STU00967,West Mesa Secondary,11,Female,Hispanic/Latino,No,No,No
+STU00968,Eastview Middle School,7,Female,White,No,No,No
+STU00969,Central Academy,10,Female,White,No,No,No
+STU00970,North Ridge High School,10,Female,Hispanic/Latino,No,No,Yes
+STU00971,North Ridge High School,9,Female,White,No,No,No
+STU00972,Eastview Middle School,12,Male,White,No,No,Yes
+STU00973,Eastview Middle School,6,Male,Hispanic/Latino,No,Yes,Yes
+STU00974,West Mesa Secondary,7,Male,White,Yes,No,No
+STU00975,North Ridge High School,6,Female,Hispanic/Latino,No,No,Yes
+STU00976,Riverbend School,10,Male,Hispanic/Latino,Yes,No,No
+STU00977,Central Academy,10,Male,Asian,No,Yes,No
+STU00978,North Ridge High School,12,Female,Hispanic/Latino,No,No,No
+STU00979,Central Academy,9,Male,White,No,No,Yes
+STU00980,Eastview Middle School,7,Female,White,No,No,Yes
+STU00981,West Mesa Secondary,9,Female,Hispanic/Latino,No,No,Yes
+STU00982,West Mesa Secondary,6,Female,Native American,No,No,No
+STU00983,Riverbend School,10,Male,Hispanic/Latino,No,No,No
+STU00984,Central Academy,10,Female,Hispanic/Latino,No,No,No
+STU00985,Eastview Middle School,12,Female,Native American,No,No,Yes
+STU00986,West Mesa Secondary,8,Female,Black/African American,Yes,No,Yes
+STU00987,North Ridge High School,8,Male,Black/African American,No,No,Yes
+STU00988,Eastview Middle School,6,Female,Hispanic/Latino,No,No,No
+STU00989,North Ridge High School,8,Female,Hispanic/Latino,No,Yes,No
+STU00990,Riverbend School,9,Female,White,No,No,No
+STU00991,Riverbend School,11,Male,Hispanic/Latino,No,No,Yes
+STU00992,Riverbend School,11,Male,Hispanic/Latino,Yes,No,Yes
+STU00993,Riverbend School,6,Male,Black/African American,Yes,No,Yes
+STU00994,North Ridge High School,7,Female,Hispanic/Latino,No,No,Yes
+STU00995,West Mesa Secondary,9,Female,Hispanic/Latino,Yes,No,Yes
+STU00996,Central Academy,8,Male,Hispanic/Latino,Yes,No,No
+STU00997,Riverbend School,6,Female,White,No,No,Yes
+STU00998,Eastview Middle School,11,Male,White,No,No,Yes
+STU00999,West Mesa Secondary,11,Male,Native American,No,No,No
+STU01000,North Ridge High School,9,Female,Hispanic/Latino,No,No,No
+STU01001,Eastview Middle School,8,Male,Hispanic/Latino,No,No,Yes
+STU01002,Central Academy,11,Male,White,No,No,Yes
+STU01003,Eastview Middle School,6,Female,Hispanic/Latino,No,No,No
+STU01004,Eastview Middle School,9,Female,White,No,No,No
+STU01005,Riverbend School,11,Female,Native American,No,No,No
+STU01006,North Ridge High School,12,Male,White,No,No,Yes
+STU01007,West Mesa Secondary,7,Female,,No,Yes,No
+STU01008,North Ridge High School,10,Female,Multiracial,Yes,Yes,No
+STU01009,Riverbend School,7,Male,Hispanic/Latino,No,No,Yes
+STU01010,Central Academy,6,Female,Multiracial,No,No,Yes
+STU01011,Riverbend School,8,Female,White,No,No,No
+STU01012,Central Academy,12,Male,White,Yes,No,Yes
+STU01013,Central Academy,10,Female,Native American,Yes,No,No
+STU01014,West Mesa Secondary,9,Female,White,No,No,No
+STU01015,North Ridge High School,7,Female,White,No,No,Yes
+STU01016,Eastview Middle School,6,Female,Hispanic/Latino,No,Yes,No
+STU01017,Riverbend School,7,Female,White,Yes,No,Yes
+STU01018,West Mesa Secondary,7,Male,White,No,No,No
+STU01019,Eastview Middle School,7,Male,Hispanic/Latino,Yes,No,No
+STU01020,Central Academy,10,Female,Black/African American,Yes,No,No
+STU01021,West Mesa Secondary,6,Male,White,No,Yes,Yes
+STU01022,Riverbend School,6,Male,White,No,Yes,No
+STU01023,West Mesa Secondary,9,Male,Hispanic/Latino,No,Yes,No
+STU01024,Central Academy,8,Male,White,Yes,No,No
+STU01025,Riverbend School,9,Male,Hispanic/Latino,Yes,No,No
+STU01026,North Ridge High School,6,Male,Hispanic/Latino,No,No,Yes
+STU01027,West Mesa Secondary,7,Female,White,No,No,No
+STU01028,North Ridge High School,9,Male,Hispanic/Latino,No,No,Yes
+STU01029,Riverbend School,10,Female,Hispanic/Latino,No,No,Yes
+STU01030,North Ridge High School,8,Female,White,Yes,No,No
+STU01031,Central Academy,9,Male,Hispanic/Latino,No,No,No
+STU01032,Riverbend School,9,Female,Multiracial,No,No,No
+STU01033,Central Academy,7,Female,Native American,No,No,Yes
+STU01034,West Mesa Secondary,7,Female,White,Yes,No,Yes
+STU01035,North Ridge High School,8,Female,Multiracial,No,No,Yes
+STU01036,Riverbend School,6,Male,Native American,No,No,Yes
+STU01037,North Ridge High School,10,Male,Hispanic/Latino,No,No,No
+STU01038,North Ridge High School,10,Female,Black/African American,No,No,No
+STU01039,Central Academy,8,Female,Hispanic/Latino,No,No,Yes
+STU01040,Eastview Middle School,8,Female,Black/African American,No,No,Yes
+STU01041,Eastview Middle School,8,Female,White,No,No,Yes
+STU01042,Riverbend School,10,Male,Hispanic/Latino,No,No,No
+STU01043,Riverbend School,11,Male,Hispanic/Latino,No,No,No
+STU01044,Riverbend School,6,Male,Multiracial,No,No,Yes
+STU01045,Eastview Middle School,8,Female,Hispanic/Latino,Yes,No,Yes
+STU01046,North Ridge High School,6,Male,Hispanic/Latino,No,No,Yes
+STU01047,Eastview Middle School,9,Male,Hispanic/Latino,No,No,Yes
+STU01048,Riverbend School,7,Male,White,No,No,No
+STU01049,West Mesa Secondary,8,Female,Asian,No,No,No
+STU01050,North Ridge High School,9,Female,Black/African American,No,No,Yes
+STU01051,Riverbend School,8,Male,White,No,No,No
+STU01052,Eastview Middle School,8,Female,Hispanic/Latino,No,No,Yes
+STU01053,North Ridge High School,11,Female,Hispanic/Latino,No,No,Yes
+STU01054,Eastview Middle School,11,Nonbinary,White,Yes,No,No
+STU01055,North Ridge High School,6,Male,Asian,No,No,Yes
+STU01056,Riverbend School,8,Female,Black/African American,Yes,No,Yes
+STU01057,West Mesa Secondary,11,Female,White,No,No,No
+STU01058,North Ridge High School,9,Female,White,No,No,No
+STU01059,Central Academy,7,Male,White,No,No,Yes
+STU01060,Riverbend School,10,Female,White,No,Yes,No
+STU01061,West Mesa Secondary,7,Male,White,Yes,No,Yes
+STU01062,Riverbend School,6,Male,Black/African American,No,No,No
+STU01063,North Ridge High School,10,Male,White,No,No,Yes
+STU01064,Riverbend School,9,Male,Multiracial,Yes,No,No
+STU01065,North Ridge High School,11,Female,White,No,No,Yes
+STU01066,West Mesa Secondary,8,Female,Hispanic/Latino,No,No,No
+STU01067,North Ridge High School,11,Male,Hispanic/Latino,No,No,No
+STU01068,Riverbend School,8,Female,White,No,No,Yes
+STU01069,Eastview Middle School,11,Female,White,No,No,No
+STU01070,North Ridge High School,6,Female,White,No,No,Yes
+STU01071,West Mesa Secondary,6,Female,Black/African American,No,No,No
+STU01072,Riverbend School,11,Female,Hispanic/Latino,No,No,Yes
+STU01073,Central Academy,11,Male,Black/African American,No,No,Yes
+STU01074,West Mesa Secondary,12,Male,Black/African American,Yes,No,No
+STU01075,West Mesa Secondary,8,Male,White,No,No,Yes
+STU01076,North Ridge High School,6,Male,White,No,No,No
+STU01077,Central Academy,12,Female,Hispanic/Latino,No,No,No
+STU01078,Central Academy,10,Male,White,No,No,Yes
+STU01079,Riverbend School,7,Male,Asian,No,No,Yes
+STU01080,North Ridge High School,11,Female,Native American,No,No,No
+STU01081,North Ridge High School,12,Male,White,No,No,
+STU01082,West Mesa Secondary,7,Female,Hispanic/Latino,No,No,Yes
+STU01083,West Mesa Secondary,11,Female,Black/African American,No,Yes,Yes
+STU01084,West Mesa Secondary,11,Female,Black/African American,No,No,No
+STU01085,West Mesa Secondary,9,Female,Hispanic/Latino,No,No,No
+STU01086,Riverbend School,10,Female,Asian,No,No,No
+STU01087,Riverbend School,7,Male,Hispanic/Latino,No,No,Yes
+STU01088,Riverbend School,12,Male,Hispanic/Latino,No,No,No
+STU01089,Central Academy,12,Female,Hispanic/Latino,Yes,No,No
+STU01090,Central Academy,12,Male,Hispanic/Latino,No,No,Yes
+STU01091,North Ridge High School,11,Female,Native American,No,No,Yes
+STU01092,Riverbend School,6,Male,White,No,No,Yes
+STU01093,North Ridge High School,8,Female,Hispanic/Latino,No,Yes,No
+STU01094,North Ridge High School,9,Female,White,No,No,Yes
+STU01095,Central Academy,12,Male,White,No,Yes,No
+STU01096,North Ridge High School,9,Male,Hispanic/Latino,No,No,No
+STU01097,North Ridge High School,9,Male,Hispanic/Latino,No,No,Yes
+STU01098,West Mesa Secondary,7,Male,White,No,No,No
+STU01099,West Mesa Secondary,11,Male,Hispanic/Latino,No,No,No
+STU01100,Eastview Middle School,8,Female,Black/African American,No,No,Yes
+STU01101,Eastview Middle School,6,Female,Hispanic/Latino,No,No,No
+STU01102,North Ridge High School,12,Female,Black/African American,No,No,Yes
+STU01103,Riverbend School,7,Female,Asian,No,No,Yes
+STU01104,West Mesa Secondary,6,Female,Hispanic/Latino,No,No,No
+STU01105,Eastview Middle School,6,Male,Hispanic/Latino,No,No,No
+STU01106,Riverbend School,9,Female,Multiracial,No,No,Yes
+STU01107,Eastview Middle School,6,Male,White,No,No,No
+STU01108,North Ridge High School,11,Female,White,No,No,No
+STU01109,West Mesa Secondary,9,Male,Hispanic/Latino,No,No,No
+STU01110,Eastview Middle School,8,Male,Hispanic/Latino,No,No,Yes
+STU01111,Eastview Middle School,6,Female,White,No,No,Yes
+STU01112,Central Academy,9,Female,Native American,No,Yes,Yes
+STU01113,Riverbend School,7,Male,Hispanic/Latino,No,Yes,No
+STU01114,West Mesa Secondary,12,Male,Black/African American,Yes,No,Yes
+STU01115,West Mesa Secondary,8,Female,Black/African American,No,No,No
+STU01116,Eastview Middle School,9,Female,Hispanic/Latino,No,No,Yes
+STU01117,Eastview Middle School,6,Male,Hispanic/Latino,No,Yes,No
+STU01118,Riverbend School,6,Male,Hispanic/Latino,No,No,No
+STU01119,North Ridge High School,7,Female,White,No,No,No
+STU01120,West Mesa Secondary,6,Female,White,No,No,No
+STU01121,Riverbend School,11,Male,White,No,Yes,No
+STU01122,Eastview Middle School,12,Female,Hispanic/Latino,Yes,Yes,Yes
+STU01123,West Mesa Secondary,12,Male,Black/African American,No,No,No
+STU01124,Eastview Middle School,7,Female,White,No,Yes,No
+STU01125,Central Academy,11,Male,White,No,No,No
+STU01126,Central Academy,9,Female,White,No,Yes,Yes
+STU01127,Central Academy,6,Female,Hispanic/Latino,No,No,No
+STU01128,Riverbend School,6,Male,Black/African American,No,No,Yes
+STU01129,Riverbend School,9,Female,White,No,No,Yes
+STU01130,West Mesa Secondary,8,Male,Hispanic/Latino,No,No,Yes
+STU01131,West Mesa Secondary,6,Female,Hispanic/Latino,No,No,Yes
+STU01132,Central Academy,12,Male,White,No,Yes,Yes
+STU01133,Eastview Middle School,11,Male,White,No,No,Yes
+STU01134,Riverbend School,9,Male,Hispanic/Latino,No,No,No
+STU01135,West Mesa Secondary,12,Female,Asian,Yes,Yes,Yes
+STU01136,North Ridge High School,12,Male,Asian,No,No,Yes
+STU01137,Central Academy,12,Male,Hispanic/Latino,No,No,No
+STU01138,Central Academy,7,Male,Black/African American,Yes,No,No
+STU01139,Eastview Middle School,12,Female,White,No,No,Yes
+STU01140,Riverbend School,9,Female,Multiracial,No,No,Yes
+STU01141,North Ridge High School,11,Female,Hispanic/Latino,Yes,No,No
+STU01142,Riverbend School,12,Male,Hispanic/Latino,No,No,No
+STU01143,West Mesa Secondary,7,Male,White,No,Yes,No
+STU01144,West Mesa Secondary,9,Female,Hispanic/Latino,Yes,No,Yes
+STU01145,North Ridge High School,6,Male,Black/African American,No,No,No
+STU01146,North Ridge High School,7,Male,White,No,No,No
+STU01147,Riverbend School,8,Female,Hispanic/Latino,No,No,No
+STU01148,West Mesa Secondary,11,Female,White,Yes,Yes,No
+STU01149,Central Academy,12,Male,Native American,No,No,No
+STU01150,West Mesa Secondary,8,Male,Asian,No,No,No
+STU01151,Eastview Middle School,8,Female,White,Yes,No,No
+STU01152,West Mesa Secondary,9,Male,Hispanic/Latino,No,No,No
+STU01153,Eastview Middle School,12,Male,Hispanic/Latino,Yes,No,No
+STU01154,Eastview Middle School,12,Male,Native American,No,No,Yes
+STU01155,Central Academy,7,Male,Black/African American,No,No,No
+STU01156,Eastview Middle School,7,Male,White,No,No,No
+STU01157,Eastview Middle School,10,Male,Native American,No,No,Yes
+STU01158,Eastview Middle School,8,Female,Hispanic/Latino,No,No,Yes
+STU01159,Central Academy,7,Male,Black/African American,No,No,No
+STU01160,Riverbend School,6,Female,Hispanic/Latino,No,No,No
+STU01161,Eastview Middle School,8,Male,Hispanic/Latino,Yes,No,No
+STU01162,Riverbend School,8,Female,White,No,No,Yes
+STU01163,West Mesa Secondary,9,Male,White,No,No,Yes
+STU01164,Eastview Middle School,7,Female,Multiracial,No,No,No
+STU01165,Eastview Middle School,11,Female,Hispanic/Latino,No,No,No
+STU01166,West Mesa Secondary,10,Female,Asian,Yes,No,No
+STU01167,West Mesa Secondary,9,Male,Black/African American,No,No,Yes
+STU01168,Central Academy,7,Male,Black/African American,No,Yes,No
+STU01169,West Mesa Secondary,9,Female,Native American,No,No,No
+STU01170,Eastview Middle School,10,Male,White,No,No,No
+STU01171,North Ridge High School,8,Male,White,No,No,Yes
+STU01172,Riverbend School,7,Female,Hispanic/Latino,No,No,Yes
+STU01173,North Ridge High School,9,Male,Hispanic/Latino,No,No,No
+STU01174,Riverbend School,8,Female,Native American,No,No,Yes
+STU01175,Central Academy,8,Female,White,Yes,No,No
+STU01176,Riverbend School,8,Male,Hispanic/Latino,Yes,No,No
+STU01177,Central Academy,8,Female,Hispanic/Latino,Yes,No,Yes
+STU01178,North Ridge High School,11,Male,White,No,No,Yes
+STU01179,North Ridge High School,9,Male,Black/African American,No,Yes,No
+STU01180,North Ridge High School,9,Male,Hispanic/Latino,Yes,No,No
+STU01181,Riverbend School,10,Male,Black/African American,No,No,Yes
+STU01182,Eastview Middle School,8,Male,White,No,No,Yes
+STU01183,Eastview Middle School,6,Nonbinary,Asian,Yes,Yes,No
+STU01184,Eastview Middle School,11,Female,Hispanic/Latino,No,No,Yes
+STU01185,Eastview Middle School,6,Female,White,No,No,No
+STU01186,West Mesa Secondary,10,Male,Hispanic/Latino,No,No,No
+STU01187,North Ridge High School,7,Female,Hispanic/Latino,No,No,Yes
+STU01188,West Mesa Secondary,7,Female,Black/African American,No,No,No
+STU01189,Eastview Middle School,6,Female,White,No,No,Yes
+STU01190,Riverbend School,12,Male,Hispanic/Latino,No,No,Yes
+STU01191,Central Academy,9,Female,Asian,No,No,No
+STU01192,North Ridge High School,8,Female,Hispanic/Latino,No,No,No
+STU01193,West Mesa Secondary,11,Female,White,No,No,No
+STU01194,West Mesa Secondary,6,Female,Multiracial,No,No,Yes
+STU01195,West Mesa Secondary,9,Male,White,No,No,No
+STU01196,Eastview Middle School,9,Female,Asian,Yes,No,Yes
+STU01197,North Ridge High School,9,Male,White,No,No,No
+STU01198,Riverbend School,6,Male,Asian,No,No,No
+STU01199,North Ridge High School,12,Female,White,No,No,Yes
+STU01200,Riverbend School,7,Male,Black/African American,Yes,No,Yes
+STU01201,Central Academy,10,Male,Hispanic/Latino,No,No,No
+STU01202,Central Academy,11,Male,Black/African American,No,No,Yes
+STU01203,West Mesa Secondary,8,Female,Hispanic/Latino,No,No,No
+STU01204,Riverbend School,6,Female,Multiracial,No,Yes,No
+STU01205,Eastview Middle School,8,Nonbinary,Hispanic/Latino,No,No,No
+STU01206,Eastview Middle School,11,Male,Hispanic/Latino,No,No,Yes
+STU01207,Riverbend School,12,Male,Asian,No,No,Yes
+STU01208,Central Academy,12,Male,Hispanic/Latino,No,No,Yes
+STU01209,North Ridge High School,7,Female,Hispanic/Latino,No,Yes,No
+STU01210,North Ridge High School,10,Male,Black/African American,No,No,No
+STU01211,Riverbend School,7,Female,Hispanic/Latino,No,No,No
+STU01212,West Mesa Secondary,10,Male,Hispanic/Latino,No,No,Yes
+STU01213,Central Academy,8,Female,White,No,No,Yes
+STU01214,North Ridge High School,10,Female,Hispanic/Latino,No,No,Yes
+STU01215,North Ridge High School,10,Male,Hispanic/Latino,No,No,No
+STU01216,Central Academy,12,Male,Hispanic/Latino,No,No,Yes
+STU01217,North Ridge High School,9,Male,Hispanic/Latino,No,No,Yes
+STU01218,Central Academy,8,Female,Hispanic/Latino,No,No,No
+STU01219,Riverbend School,9,Female,Hispanic/Latino,No,Yes,No
+STU01220,Eastview Middle School,7,Male,White,No,Yes,Yes
+STU01221,Eastview Middle School,6,Female,White,No,No,No
+STU01222,North Ridge High School,9,Female,Hispanic/Latino,No,No,Yes
+STU01223,West Mesa Secondary,11,Male,Hispanic/Latino,No,No,Yes
+STU01224,Riverbend School,9,Female,Native American,No,Yes,Yes
+STU01225,Eastview Middle School,11,Male,White,Yes,No,Yes
+STU01226,West Mesa Secondary,7,Female,White,Yes,No,No
+STU01227,Central Academy,9,Male,White,No,No,Yes
+STU01228,Central Academy,10,Male,Hispanic/Latino,No,No,No
+STU01229,West Mesa Secondary,8,Male,Asian,No,No,Yes
+STU01230,Eastview Middle School,6,Male,Native American,No,No,No
+STU01231,North Ridge High School,6,Female,Native American,No,No,No
+STU01232,Central Academy,12,Male,Hispanic/Latino,No,No,Yes
+STU01233,Eastview Middle School,10,Male,Hispanic/Latino,No,No,No
+STU01234,Riverbend School,7,Male,Hispanic/Latino,No,No,No
+STU01235,North Ridge High School,7,Male,Hispanic/Latino,No,No,No
+STU01236,Eastview Middle School,6,Male,Hispanic/Latino,No,No,Yes
+STU01237,North Ridge High School,12,Male,White,No,No,No
+STU01238,Central Academy,6,Male,Hispanic/Latino,No,No,Yes
+STU01239,Eastview Middle School,11,Female,Native American,Yes,No,No
+STU01240,Eastview Middle School,7,Male,Hispanic/Latino,No,No,No
+STU01241,West Mesa Secondary,8,Male,Hispanic/Latino,No,No,Yes
+STU01242,North Ridge High School,7,Female,Asian,No,No,No
+STU01243,North Ridge High School,11,Male,Black/African American,No,Yes,No
+STU01244,Eastview Middle School,6,Male,Hispanic/Latino,Yes,No,No
+STU01245,North Ridge High School,8,Female,White,No,Yes,Yes
+STU01246,North Ridge High School,7,Male,Hispanic/Latino,Yes,No,Yes
+STU01247,Riverbend School,7,Male,Hispanic/Latino,No,No,Yes
+STU01248,North Ridge High School,7,Male,White,No,No,Yes
+STU01249,West Mesa Secondary,12,Female,Hispanic/Latino,No,No,No
+STU01250,West Mesa Secondary,8,Male,White,No,No,Yes
+STU01251,Eastview Middle School,8,Female,Hispanic/Latino,No,No,No
+STU01252,Eastview Middle School,8,Male,Black/African American,No,No,No
+STU01253,Eastview Middle School,12,Female,Black/African American,No,No,No
+STU01254,Riverbend School,8,Male,Hispanic/Latino,No,Yes,Yes
+STU01255,Eastview Middle School,8,Male,Hispanic/Latino,No,No,No
+STU01256,West Mesa Secondary,8,Male,White,Yes,No,No
+STU01257,Riverbend School,8,Male,Black/African American,No,No,No
+STU01258,West Mesa Secondary,6,Male,White,Yes,No,Yes
+STU01259,Central Academy,10,Male,Black/African American,No,No,No
+STU01260,West Mesa Secondary,6,Female,White,No,No,Yes
+STU01261,Eastview Middle School,7,Male,Hispanic/Latino,No,No,No
+STU01262,North Ridge High School,7,Male,White,Yes,No,Yes
+STU01263,North Ridge High School,8,Nonbinary,Hispanic/Latino,Yes,No,Yes
+STU01264,West Mesa Secondary,11,Male,Black/African American,No,No,No
+STU01265,Central Academy,10,Male,Hispanic/Latino,Yes,Yes,Yes
+STU01266,West Mesa Secondary,12,Male,Hispanic/Latino,No,No,No
+STU01267,Eastview Middle School,8,Male,White,No,No,No
+STU01268,West Mesa Secondary,12,Female,White,No,No,Yes
+STU01269,Central Academy,6,Male,White,No,No,Yes
+STU01270,Central Academy,9,Male,White,No,No,Yes
+STU01271,West Mesa Secondary,11,Male,Native American,No,No,No
+STU01272,North Ridge High School,9,Male,Asian,No,No,No
+STU01273,North Ridge High School,12,Female,Native American,Yes,No,Yes
+STU01274,Central Academy,8,Female,White,No,No,Yes
+STU01275,Eastview Middle School,6,Male,White,No,No,Yes
+STU01276,North Ridge High School,11,Female,White,No,No,No
+STU01277,Eastview Middle School,6,Female,White,No,No,Yes
+STU01278,Eastview Middle School,11,Female,Hispanic/Latino,Yes,No,Yes
+STU01279,West Mesa Secondary,11,Male,White,No,No,No
+STU01280,Central Academy,11,Female,Hispanic/Latino,Yes,No,Yes
+STU01281,North Ridge High School,9,Female,Hispanic/Latino,No,No,No
+STU01282,North Ridge High School,12,Female,Asian,No,No,No
+STU01283,Central Academy,7,Female,Hispanic/Latino,No,No,No
+STU01284,Riverbend School,9,Female,White,Yes,No,Yes
+STU01285,West Mesa Secondary,6,Male,White,No,Yes,No
+STU01286,West Mesa Secondary,11,Male,Hispanic/Latino,Yes,No,Yes
+STU01287,North Ridge High School,10,Female,Native American,Yes,No,No
+STU01288,North Ridge High School,11,Male,Hispanic/Latino,No,No,Yes
+STU01289,Central Academy,11,Female,Native American,No,Yes,No
+STU01290,Central Academy,8,Female,Black/African American,No,No,Yes
+STU01291,Central Academy,6,Male,Hispanic/Latino,No,No,No
+STU01292,Riverbend School,12,Male,Hispanic/Latino,No,No,No
+STU01293,Central Academy,9,Male,Hispanic/Latino,No,No,Yes
+STU01294,North Ridge High School,6,Female,White,No,No,No
+STU01295,North Ridge High School,12,Female,Hispanic/Latino,No,No,No
+STU01296,North Ridge High School,12,Female,Multiracial,No,No,Yes
+STU01297,Eastview Middle School,9,Female,Hispanic/Latino,Yes,No,No
+STU01298,Eastview Middle School,11,Nonbinary,Asian,No,No,No
+STU01299,Riverbend School,6,Female,Hispanic/Latino,No,No,No
+STU01300,North Ridge High School,6,Male,Multiracial,No,No,Yes
+STU01301,North Ridge High School,7,Male,Hispanic/Latino,No,No,No
+STU01302,Central Academy,10,Male,White,No,No,Yes
+STU01303,Riverbend School,6,Female,White,No,No,No
+STU01304,North Ridge High School,6,Male,Hispanic/Latino,Yes,No,Yes
+STU01305,West Mesa Secondary,10,Female,Asian,Yes,No,Yes
+STU01306,West Mesa Secondary,11,Male,Hispanic/Latino,No,No,Yes
+STU01307,Central Academy,11,Male,White,No,No,Yes
+STU01308,Riverbend School,11,Male,White,Yes,No,No
+STU01309,Eastview Middle School,11,Male,White,No,No,No
+STU01310,West Mesa Secondary,10,Male,Hispanic/Latino,No,No,No
+STU01311,North Ridge High School,9,Male,Hispanic/Latino,No,No,No
+STU01312,West Mesa Secondary,11,Male,Hispanic/Latino,No,No,Yes
+STU01313,Central Academy,8,Male,Hispanic/Latino,Yes,No,Yes
+STU01314,Eastview Middle School,6,Female,Hispanic/Latino,No,No,No
+STU01315,Eastview Middle School,11,Male,Native American,No,No,No
+STU01316,Riverbend School,7,Male,White,No,No,No
+STU01317,Central Academy,12,Male,White,No,Yes,Yes
+STU01318,Eastview Middle School,8,Female,Hispanic/Latino,No,No,No
+STU01319,Riverbend School,11,Male,Hispanic/Latino,No,Yes,Yes
+STU01320,West Mesa Secondary,6,Female,White,No,No,No
+STU01321,Central Academy,10,Male,Hispanic/Latino,No,No,Yes
+STU01322,Central Academy,9,Female,Hispanic/Latino,No,No,No
+STU01323,Eastview Middle School,9,Female,White,No,No,Yes
+STU01324,Riverbend School,7,Female,White,No,No,No
+STU01325,North Ridge High School,12,Female,Multiracial,No,No,Yes
+STU01326,West Mesa Secondary,8,Female,Hispanic/Latino,No,No,No
+STU01327,North Ridge High School,11,Male,White,No,Yes,Yes
+STU01328,Central Academy,8,Female,Hispanic/Latino,No,No,No
+STU01329,North Ridge High School,6,Male,Hispanic/Latino,No,No,Yes
+STU01330,Eastview Middle School,12,Female,Black/African American,No,No,Yes
+STU01331,Riverbend School,7,Male,Hispanic/Latino,No,No,No
+STU01332,Central Academy,7,Male,White,No,No,Yes
+STU01333,Central Academy,12,Female,White,No,Yes,Yes
+STU01334,West Mesa Secondary,12,Male,Hispanic/Latino,Yes,No,No
+STU01335,West Mesa Secondary,12,Male,Multiracial,No,Yes,No
+STU01336,West Mesa Secondary,8,Male,White,No,No,No
+STU01337,Eastview Middle School,11,Female,Asian,Yes,No,Yes
+STU01338,Central Academy,8,Female,White,No,No,No
+STU01339,West Mesa Secondary,11,Male,Multiracial,No,No,No
+STU01340,North Ridge High School,9,Female,Hispanic/Latino,No,Yes,Yes
+STU01341,Eastview Middle School,6,Male,White,No,No,No
+STU01342,West Mesa Secondary,8,Female,Black/African American,No,Yes,Yes
+STU01343,Central Academy,9,Male,Hispanic/Latino,No,No,No
+STU01344,Central Academy,7,Female,Hispanic/Latino,No,No,No
+STU01345,West Mesa Secondary,8,Female,Multiracial,No,Yes,Yes
+STU01346,Riverbend School,9,Nonbinary,White,No,No,Yes
+STU01347,Central Academy,6,Male,Black/African American,No,Yes,Yes
+STU01348,North Ridge High School,7,Male,White,No,No,Yes
+STU01349,North Ridge High School,11,Male,Asian,Yes,No,No
+STU01350,Eastview Middle School,8,Female,Native American,No,No,No
+STU01351,Riverbend School,10,Female,White,Yes,No,No
+STU01352,West Mesa Secondary,9,Female,Hispanic/Latino,Yes,No,Yes
+STU01353,North Ridge High School,9,Male,Hispanic/Latino,No,No,No
+STU01354,North Ridge High School,8,Female,White,Yes,No,Yes
+STU01355,West Mesa Secondary,9,Male,Asian,No,No,Yes
+STU01356,Eastview Middle School,11,Female,White,Yes,Yes,No
+STU01357,Central Academy,12,Female,Hispanic/Latino,No,No,Yes
+STU01358,Central Academy,7,Female,Hispanic/Latino,No,No,No
+STU01359,Riverbend School,10,Female,White,Yes,No,No
+STU01360,Eastview Middle School,12,Female,Asian,Yes,No,Yes
+STU01361,Riverbend School,6,Male,Hispanic/Latino,No,No,No
+STU01362,North Ridge High School,11,Female,White,No,No,No
+STU01363,Riverbend School,9,Male,Black/African American,No,No,No
+STU01364,Eastview Middle School,12,Male,Multiracial,Yes,No,Yes
+STU01365,Central Academy,10,Male,Hispanic/Latino,No,Yes,Yes
+STU01366,Central Academy,11,Male,Native American,Yes,No,Yes
+STU01367,North Ridge High School,7,Female,White,No,No,Yes
+STU01368,Eastview Middle School,6,Female,Black/African American,No,No,Yes
+STU01369,Eastview Middle School,12,Female,Hispanic/Latino,No,No,No
+STU01370,North Ridge High School,9,Male,White,No,No,No
+STU01371,Eastview Middle School,9,Male,White,No,No,Yes
+STU01372,West Mesa Secondary,7,Female,Hispanic/Latino,No,No,No
+STU01373,North Ridge High School,7,Female,White,Yes,No,No
+STU01374,West Mesa Secondary,11,Male,White,No,No,No
+STU01375,West Mesa Secondary,8,Male,White,Yes,No,No
+STU01376,Eastview Middle School,10,Male,Hispanic/Latino,No,No,No
+STU01377,Riverbend School,8,Male,White,No,No,Yes
+STU01378,West Mesa Secondary,7,Male,Hispanic/Latino,No,No,Yes
+STU01379,Riverbend School,7,Male,Native American,No,No,No
+STU01380,Central Academy,12,Female,Multiracial,No,No,No
+STU01381,Central Academy,12,Female,Hispanic/Latino,No,No,No
+STU01382,Eastview Middle School,6,Male,Hispanic/Latino,Yes,No,No
+STU01383,Central Academy,8,Male,Hispanic/Latino,No,No,Yes
+STU01384,West Mesa Secondary,9,Female,White,No,No,Yes
+STU01385,West Mesa Secondary,8,Male,Native American,No,No,No
+STU01386,Eastview Middle School,11,Female,,No,No,Yes
+STU01387,Riverbend School,7,Male,Hispanic/Latino,Yes,No,No
+STU01388,North Ridge High School,6,Female,Hispanic/Latino,No,Yes,No
+STU01389,West Mesa Secondary,8,Male,Hispanic/Latino,No,No,No
+STU01390,Eastview Middle School,10,Male,Asian,No,No,Yes
+STU01391,West Mesa Secondary,7,Female,White,Yes,No,No
+STU01392,West Mesa Secondary,11,Female,White,No,No,Yes
+STU01393,Eastview Middle School,6,Male,Hispanic/Latino,No,No,No
+STU01394,Eastview Middle School,6,Female,Native American,No,No,Yes
+STU01395,West Mesa Secondary,9,Female,Hispanic/Latino,No,No,No
+STU01396,Eastview Middle School,9,Male,Asian,Yes,No,Yes
+STU01397,Central Academy,8,Female,Native American,Yes,No,Yes
+STU01398,West Mesa Secondary,7,Female,White,Yes,No,Yes
+STU01399,Central Academy,6,Female,Native American,No,No,Yes
+STU01400,North Ridge High School,10,Male,Hispanic/Latino,No,Yes,Yes
+STU01401,Central Academy,8,Female,White,No,No,No
+STU01402,Eastview Middle School,6,Female,Hispanic/Latino,No,No,No
+STU01403,West Mesa Secondary,8,Female,White,No,No,Yes
+STU01404,North Ridge High School,12,Female,Hispanic/Latino,No,No,No
+STU01405,Eastview Middle School,7,Female,Hispanic/Latino,No,No,No
+STU01406,North Ridge High School,12,Female,Hispanic/Latino,No,No,No
+STU01407,West Mesa Secondary,7,Female,Hispanic/Latino,No,No,Yes
+STU01408,Eastview Middle School,7,Female,White,No,No,Yes
+STU01409,West Mesa Secondary,7,Male,White,No,No,No
+STU01410,Riverbend School,8,Female,Hispanic/Latino,No,No,Yes
+STU01411,West Mesa Secondary,6,Female,Multiracial,No,No,Yes
+STU01412,West Mesa Secondary,10,Male,Multiracial,No,No,No
+STU01413,West Mesa Secondary,8,Male,Hispanic/Latino,Yes,No,Yes
+STU01414,West Mesa Secondary,11,Male,White,No,No,No
+STU01415,Eastview Middle School,9,Female,White,No,No,Yes
+STU01416,Riverbend School,9,Female,Black/African American,No,No,No
+STU01417,Central Academy,9,Female,Hispanic/Latino,No,No,No
+STU01418,Central Academy,7,Female,Black/African American,No,No,No
+STU01419,West Mesa Secondary,10,Female,Hispanic/Latino,No,No,No
+STU01420,West Mesa Secondary,6,Male,Hispanic/Latino,No,No,No
+STU01421,Riverbend School,11,Female,Black/African American,No,No,Yes
+STU01422,Central Academy,12,Male,White,No,No,No
+STU01423,Central Academy,11,Female,Asian,No,No,No
+STU01424,North Ridge High School,9,Female,Hispanic/Latino,No,No,No
+STU01425,North Ridge High School,8,Male,Hispanic/Latino,No,Yes,Yes
+STU01426,North Ridge High School,12,Male,Hispanic/Latino,Yes,No,Yes
+STU01427,Eastview Middle School,7,Female,Hispanic/Latino,No,No,No
+STU01428,Eastview Middle School,9,Male,Hispanic/Latino,No,No,No
+STU01429,Riverbend School,11,Female,White,Yes,No,Yes
+STU01430,Central Academy,12,Female,White,No,No,Yes
+STU01431,West Mesa Secondary,12,Male,White,No,No,No
+STU01432,Riverbend School,6,Female,White,No,No,Yes
+STU01433,Eastview Middle School,12,Female,Hispanic/Latino,No,No,
+STU01434,Eastview Middle School,6,Female,Black/African American,No,Yes,Yes
+STU01435,North Ridge High School,10,Female,Hispanic/Latino,No,No,Yes
+STU01436,West Mesa Secondary,12,Female,Native American,No,No,Yes
+STU01437,North Ridge High School,10,Female,Hispanic/Latino,No,No,No
+STU01438,Central Academy,12,Male,White,No,No,No
+STU01439,West Mesa Secondary,8,Male,Native American,No,No,Yes
+STU01440,West Mesa Secondary,8,Female,White,No,No,Yes
+STU01441,North Ridge High School,8,Female,White,No,No,Yes
+STU01442,Eastview Middle School,8,Male,Black/African American,Yes,No,Yes
+STU01443,Eastview Middle School,10,Female,Hispanic/Latino,Yes,Yes,No
+STU01444,Eastview Middle School,9,Male,Black/African American,No,No,Yes
+STU01445,Eastview Middle School,11,Male,Native American,No,No,No
+STU01446,Central Academy,8,Female,Multiracial,No,No,Yes
+STU01447,West Mesa Secondary,8,Female,White,No,No,Yes
+STU01448,Central Academy,7,Female,Hispanic/Latino,Yes,No,Yes
+STU01449,Riverbend School,9,Female,Black/African American,No,No,Yes
+STU01450,North Ridge High School,12,Female,White,No,No,Yes
+STU01451,West Mesa Secondary,12,Male,Hispanic/Latino,No,Yes,Yes
+STU01452,Riverbend School,7,Female,Hispanic/Latino,No,No,Yes
+STU01453,West Mesa Secondary,9,Male,Hispanic/Latino,No,No,No
+STU01454,West Mesa Secondary,10,Male,White,Yes,No,
+STU01455,North Ridge High School,10,Female,Hispanic/Latino,No,No,Yes
+STU01456,Eastview Middle School,6,Female,Hispanic/Latino,No,No,Yes
+STU01457,North Ridge High School,10,Female,Hispanic/Latino,Yes,No,No
+STU01458,Central Academy,6,Male,Native American,No,No,No
+STU01459,West Mesa Secondary,6,Female,Hispanic/Latino,No,No,No
+STU01460,North Ridge High School,10,Male,Hispanic/Latino,Yes,No,No
+STU01461,Riverbend School,6,Male,White,Yes,No,No
+STU01462,Central Academy,8,Male,Hispanic/Latino,No,No,Yes
+STU01463,Eastview Middle School,10,Nonbinary,Multiracial,No,No,No
+STU01464,North Ridge High School,10,Male,Native American,No,No,No
+STU01465,Riverbend School,9,Male,White,No,No,Yes
+STU01466,Riverbend School,6,Male,White,No,Yes,Yes
+STU01467,Central Academy,11,Male,Hispanic/Latino,No,No,Yes
+STU01468,North Ridge High School,12,Male,Hispanic/Latino,No,No,Yes
+STU01469,Riverbend School,12,Male,Hispanic/Latino,No,No,No
+STU01470,Eastview Middle School,11,Female,Hispanic/Latino,No,No,Yes
+STU01471,West Mesa Secondary,8,Male,Hispanic/Latino,No,No,No
+STU01472,Eastview Middle School,12,Male,White,No,No,No
+STU01473,Eastview Middle School,9,Male,Hispanic/Latino,No,No,Yes
+STU01474,Central Academy,6,Female,Hispanic/Latino,Yes,No,Yes
+STU01475,Central Academy,11,Male,White,No,No,No
+STU01476,Central Academy,8,Male,White,No,No,No
+STU01477,Central Academy,12,Male,Hispanic/Latino,Yes,No,Yes
+STU01478,West Mesa Secondary,8,Female,Hispanic/Latino,No,No,Yes
+STU01479,Central Academy,12,Male,Hispanic/Latino,No,No,No
+STU01480,Central Academy,9,Male,Hispanic/Latino,No,No,No
+STU01481,Central Academy,9,Male,Asian,No,No,Yes
+STU01482,Eastview Middle School,8,Male,Native American,No,No,Yes
+STU01483,Central Academy,11,Male,White,No,No,No
+STU01484,North Ridge High School,6,Male,White,No,No,
+STU01485,Riverbend School,9,Female,Black/African American,Yes,No,Yes
+STU01486,Eastview Middle School,8,Male,White,No,Yes,No
+STU01487,West Mesa Secondary,9,Female,Hispanic/Latino,Yes,No,Yes
+STU01488,Central Academy,7,Male,Hispanic/Latino,No,No,Yes
+STU01489,West Mesa Secondary,10,Male,White,No,No,No
+STU01490,Central Academy,8,Female,White,No,No,No
+STU01491,Eastview Middle School,7,Female,Hispanic/Latino,No,Yes,Yes
+STU01492,West Mesa Secondary,7,Female,Hispanic/Latino,No,No,Yes
+STU01493,Riverbend School,10,Male,Hispanic/Latino,Yes,No,No
+STU01494,Riverbend School,7,Male,Hispanic/Latino,Yes,No,No
+STU01495,Central Academy,8,Female,White,Yes,No,No
+STU01496,Riverbend School,10,Male,White,Yes,No,No
+STU01497,West Mesa Secondary,8,Female,White,No,No,No
+STU01498,Riverbend School,8,Male,Hispanic/Latino,No,Yes,No
+STU01499,North Ridge High School,7,Female,Hispanic/Latino,No,No,No
+STU01500,Riverbend School,8,Female,Asian,No,Yes,Yes

@@ -23,14 +23,14 @@ import os
 # Create Cleaned Data Folder
 # ----------------------------------------------------------------
 
-os.makedirs("../data/cleaned/fact_assessment.py")
+os.makedirs("../data/cleaned", exist_ok=True)
 
 # %%
 # ----------------------------------------------------------------
 # Load Raw Assessment Data
 # ----------------------------------------------------------------
 
-assessment = pd.read_csv("../data/raw/fact_assessment.py")
+assessment = pd.read_csv("../data/raw/fact_assessment.csv")
 
 # %%
 # ----------------------------------------------------------------
@@ -74,3 +74,4 @@ assessment.loc[invalid_score, "assessment_score"] = pd.NA
 
 assessment.to_csv("../data/cleaned/fact_assessment_cleaned.csv", index=False)
 print("fact_assessment cleaned and saved.")
+# %%

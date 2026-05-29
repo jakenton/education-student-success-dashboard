@@ -91,7 +91,7 @@ print("intervention:", list(intervention.columns))
 print("\nSTUDENT PREVIEW")
 print("-----------------")
 
-print(student.head())
+print(students.head())
 
 print("\nATTENDANCE PREVIEW")
 print("--------------------")
@@ -158,3 +158,4 @@ print(
 # ----------------------------------------------------------------
 
 print("\nExploration complete.")
+# %%

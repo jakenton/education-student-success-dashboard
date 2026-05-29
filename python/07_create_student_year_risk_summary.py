@@ -138,9 +138,9 @@ risk_summary["risk_due_to_attendance"] = 0
 risk_summary["risk_due_to_assessment"] = 0
 risk_summary["risk_due_to_course_failure"] = 0
 
-risk_summary.loc[risk_summary["chornic_absenteeism_flag"] == 1, "risk_due_to_attendance"] == 1
-risk_summary.loc[risk_summary["basic_or_below_count"] == 1, "risk_due_to_assessment"] == 1
-risk_summary.loc[risk_summary["failed_course_count"] == 1, "risk_due_to_course_failure"] == 1
+risk_summary.loc[risk_summary["chronic_absenteeism_flag"] == 1, "risk_due_to_attendance"] = 1
+risk_summary.loc[risk_summary["basic_or_below_count"] >= 1, "risk_due_to_assessment"] = 1
+risk_summary.loc[risk_summary["failed_course_count"] >= 1, "risk_due_to_course_failure"] = 1
 
 # %%
 # ----------------------------------------------------------------
@@ -149,3 +149,4 @@ risk_summary.loc[risk_summary["failed_course_count"] == 1, "risk_due_to_course_f
 
 risk_summary.to_csv("../data/cleaned/student_year_risk_summary.csv", index=False)
 print("student_year_risk_summary created and saved.")
+# %%
