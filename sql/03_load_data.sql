@@ -84,8 +84,9 @@ FROM 'C:\\Data-Analytics-Projects\education-student-success-dashboard\data\clean
 WITH (
     FORMAT = 'CSV',
     FIRSTROW = 2,
-    FIELDTERMINATOR = ',',
+    FIELDQUOTE = '"',
     ROWTERMINATOR = '0x0a',
+    CODEPAGE = '65001',
     TABLOCK,
     KEEPNULLS
 );

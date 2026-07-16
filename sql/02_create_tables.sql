@@ -48,6 +48,7 @@ CREATE TABLE dbo.dim_student (
     CONSTRAINT PK_dim_student PRIMARY KEY (student_id)
 );
 GO
+
 -- fact_attendance contains attendance metrics by student and school year.
 CREATE TABLE dbo.fact_attendance (
     student_id VARCHAR(20) NOT NULL,
