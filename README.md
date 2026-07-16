@@ -113,3 +113,69 @@ Power BI Dashboard
 - Develop analytical SQL queries
 - Build Power BI dashboard
 - Finalize project documentation
+
+---
+
+## &#128202; Dataset
+
+The project uses realistic synthetic educational data representing:
+- Student demographics
+- Attendance
+- Assessment results
+- Course performance
+- Student interventions
+
+No real student information is included.
+
+---
+
+## &#128269; Example Business Questions
+
+This project answers questions such as
+- Which students are at greatest academic risk?
+- Which schools have the highest at-risk rates?
+- How does attendance relate to academic performance?
+- Which intervention types are most frequently used?
+- Which risk factors contribute most to students being identified as at risk?
+
+---
+
+## &#129504; Learning Goals
+
+This project is designed to strengthen practical skills in
+- Python
+- SQL Server
+- SQL
+- Power BI
+- Data quality assessment
+- Educational analytics
+- Dashboard development
+
+---
+
+## &#11088; Future Dashboard Features
+
+The completed Power BI dashboard will include
+- Executive KPI cards
+- Student risk overview
+- Attendance trends
+- Assessment performance by subject
+- Intervention tracking
+- School-level comparisons
+- Student drill-through pages
+
+---
+
+## &#127970; Repository Status
+
+&#9888; **Active Portfolio Project**
+
+This repository is being developed incrementally to demonstrate a realistic end-to-end analytics workflow rather than only presenting the finished product.
+
+As additional phases are completed, the repository will be updated with SQL queries, Power BI dashboards, screenshots, documentation, and project walkthroughs.
+
+---
+
+## &#128100; Author
+
+**Johnny A. Kenton, PhD**
