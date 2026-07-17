@@ -106,9 +106,9 @@ Power BI Dashboard
 - Validated missing and duplicate records
 - Created student-level risk indicators
 - Generated a data-quality log
+- Created SQL Server script for database creation, data loading, validation, and analytics
 
 ### &#9888; In Progress
-- Create SQL Server script for database creation, data loading, validation, and analytics
 - Load cleaned datasets into SQL Server
 - Develop analytical SQL queries
 - Build Power BI dashboard
